@@ -1,0 +1,1162 @@
+#EXTM3U
+#EXTINF:0,AR | A24 1
+#EXTGRP:Argentina 
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101664
+#EXTINF:0,AR | America Tv 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101662
+#EXTINF:0,AR | America Tv 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101663
+#EXTINF:0,AR | LN +
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101668
+#EXTINF:0,AR | C5N 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101666
+#EXTINF:0,AR | Cronica TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
+#EXTINF:0,AR | TV Publica 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101672
+#EXTINF:0,AR | Canal 8 Córdoba
+#EXTGRP:Argentina
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1615342422~exp=1615518822~acl=/i/canal8cordoba_1@685726/*~hmac=e8b5e111fb2219bf82288af48cf5eff45cf96ac255ee416eb8cf9088eec529e6
+#EXTINF:0,AR | El nueve 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101676
+#EXTINF:0,AR | Canal 10 Córdoba
+#EXTGRP:Argentina
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1690397581_b1500000_slen.m3u8
+#EXTINF:0,AR | TELEFE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101678
+#EXTINF:0,AR | TELEFE OP 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101679
+#EXTINF:0,AR | El trece 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101681
+#EXTINF:0,AR | El Trece 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101682
+#EXTINF:0,AR | TV Publica 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101673
+#EXTINF:0,AR | TN 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101674
+#EXTINF:0,AR | TN 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101675
+#EXTINF:0,AR | TELEFE OP 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101680
+#EXTINF:0,AR | El Trece 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101683
+#EXTINF:0,AR | El nueve 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
+#EXTINF:0,AR | Net Tv
+#EXTGRP:Argentina
+https://unlimited8-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,AR | Encuentro
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101689
+#EXTINF:0,AR | Encuentro 2
+#EXTGRP:Argentina
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+#EXTINF:0,AR | TECtv
+#EXTGRP:Argentina
+https://vmf.edge-apps.net/embed/live.php?streamname=gcba_video3-100042&amp;amp
+#EXTINF:0,AR | TV Universidad
+#EXTGRP:Argentina
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:0,AR | Canal 26 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
+#EXTINF:0,AR | Canal 26 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101670
+#EXTINF:0,AR | Canal U
+#EXTGRP:Argentina
+https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w2108845189_b700000_slen.m3u8
+#EXTINF:0,AR | Telemundo Internacional
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41406
+#EXTINF:0,AR | Telemundo Internacional
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41338
+#EXTINF:0,AR | C5N 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101667
+#EXTINF:0,AR | CGTN Español
+#EXTGRP:Argentina
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,AR | TELESUR
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55766
+#EXTINF:0,AR | TELESUR
+#EXTGRP:Argentina
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0,AR | Ciudad Magazine
+#EXTGRP:Argentina
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0013
+#EXTINF:0,CH | CNN Chile
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41260
+#EXTINF:0,AR | NTN24
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55437
+#EXTINF:0,AR | Canal IP Digital
+#EXTGRP:Argentina
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+#EXTINF:0,AR | 24/7 Noticias Argentina
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55440
+#EXTINF:0,AR | DW
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55443
+#EXTINF:0,AR | DeporTV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/147405
+#EXTINF:0,AR | Tyc Sports
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101701
+#EXTINF:0,AR | Tyc Sports 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101702
+#EXTINF:0,AR | TyC Sports 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66712
+#EXTINF:0,AR | TyC Sports Internacional
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66713
+#EXTINF:0,AR | ESPN
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66709
+#EXTINF:0,AR | ESPN HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66708
+#EXTINF:0,AR | ESPN FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66719
+#EXTINF:0,MX | ESPN MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56501
+#EXTINF:0,MX | ESPN MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66652
+#EXTINF:0,MX | ESPN MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66656
+#EXTINF:0,MX | ESPN MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56353
+#EXTINF:0,AR | ESPN 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66710
+#EXTINF:0,AR | ESPN 2 FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66720
+#EXTINF:0,MX | ESPN 2 MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66653
+#EXTINF:0,MX | ESPN 2 MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56351
+#EXTINF:0,MX | ESPN 2 MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66657
+#EXTINF:0,AR | ESPN 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66711
+#EXTINF:0,AR | ESPN 3 FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66721
+#EXTINF:0,MX | ESPN 3 MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66654
+#EXTINF:0,MX | ESPN 3 MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66658
+#EXTINF:0,AR | ESPN DEPORTES HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66738
+#EXTINF:0,AR | ESPN EXTRA HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56377
+#EXTINF:0,MX | ESPN EXTRA MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66655
+#EXTINF:0,AR | DIRECTV SPORTS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67345
+#EXTINF:0,AR | DIRECTV SPORTS 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66706
+#EXTINF:0,AR | DIRECTV SPORTS 2 HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67346
+#EXTINF:0,AR | DIRECTV SPORTS 2 FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101709
+#EXTINF:0,AR | DIRECTV SPORTS PLUS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66707
+#EXTINF:0,US | BOX NATION
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66728
+#EXTINF:0,AR | UFC TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66745
+#EXTINF:0,AR | Fight Network
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66751
+#EXTINF:0,AR | TNT SPORTS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66714
+#EXTINF:0,AR | TNT Sports
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66715
+#EXTINF:0,AR | TNT Sports 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101690
+#EXTINF:0,AR | TNT Sports 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101691
+#EXTINF:0,AR | TNT Sports 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101692
+#EXTINF:0,AR | FOX Sports Premium 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101693
+#EXTINF:0,AR | FOX Sports Premium 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101694
+#EXTINF:0,AR | FOX Sport Premium 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101695
+#EXTINF:0,AR | FOX SPORTS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101703
+#EXTINF:0,AR | FOX SPORTS HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66700
+#EXTINF:0,MX | FOX SPORTS MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66649
+#EXTINF:0,MX | FOX SPORTS MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66646
+#EXTINF:0,CH | FOX SPORTS CHILE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66717
+#EXTINF:0,AR | FOX SPORTS 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101704
+#EXTINF:0,AR | FOX SPORTS 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66701
+#EXTINF:0,AR | FOX SPORTS 2 HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66702
+#EXTINF:0,MX | FOX SPORTS 2 MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56502
+#EXTINF:0,MX | FOX SPORTS 2 MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66647
+#EXTINF:0,MX | FOX SPORTS 2 MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66650
+#EXTINF:0,CH | FOX SPORTS 2 CHILE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66718
+#EXTINF:0,AR | FOX SPORTS 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101705
+#EXTINF:0,AR | FOX SPORTS 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66703
+#EXTINF:0,AR | FOX SPORTS 3 HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66704
+#EXTINF:0,MX | FOX SPORTS 3 MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66648
+#EXTINF:0,MX | FOX SPORTS 3 MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66651
+#EXTINF:0,AR | FOX DEPORTES
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66737
+#EXTINF:0,MX | Claro Sports
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66666
+#EXTINF:0,MX | Claro Sport HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66667
+#EXTINF:0,PY | TIGO SPORTS PARAGUAY
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66725
+#EXTINF:0,CR | TIGO SPORTS COSTA RICA
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56383
+#EXTINF:0,ES | MOVISTAR FUTBOL HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66678
+#EXTINF:0,ES | MOVISTAR DEPORTES HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66681
+#EXTINF:0,ES | MOVISTAR DEPORTES HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66682
+#EXTINF:0,ES | MOVISTAR DEPORTES
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66724
+#EXTINF:0,ES | MOVISTAR LIGA DE CAMPEONES HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66685
+#EXTINF:0,ES | MOVISTAR LIGA DE CAMPEONES HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66686
+#EXTINF:0,ES | M. LIGA DE CAMPEONES
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66680
+#EXTINF:0,ES | MOVISTAR LA LIGA HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66687
+#EXTINF:0,ES | MOVISTAR LA LIGA MULTI HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66688
+#EXTINF:0,ES: LA LIGA TV BAR
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66679
+#EXTINF:0,AR | BEIN SPORTS Ñ
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66739
+#EXTINF:0,AR | Bein Sports Ñ HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66740
+#EXTINF:0,AR | BEIN SPORTS Ñ
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66672
+#EXTINF:0,AR | Bein Sports 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66674
+#EXTINF:0,AR | Bein Sports 4
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66675
+#EXTINF:0,AR | Bein Sports 5
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66676
+#EXTINF:0,AR | Bein Sports 6
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66677
+#EXTINF:0,ES | EUROSPORTS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66692
+#EXTINF:0,ES | EUROSPORTS HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66691
+#EXTINF:0,ES | EUROSPORTS 2 HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66693
+#EXTINF:0,ES | F1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66694
+#EXTINF:0,AR | GOLTV ENG
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66743
+#EXTINF:0,AR | GOL TV ESP
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66744
+#EXTINF:0,AR | FOX SPORTS 2 (Solo Eventos)
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67349
+#EXTINF:0,AR | Win Sports HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56392
+#EXTINF:0,CO | Win Sports
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66722
+#EXTINF:0,AR | Trending SE3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66659
+#EXTINF:0,AR | Afizzionados HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66660
+#EXTINF:0,AR | Afizzionados op2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66661
+#EXTINF:0,AR | Trending SE1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66662
+#EXTINF:0,AR | Trending SE2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66663
+#EXTINF:0,MX | TVC Deportes
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66664
+#EXTINF:0,MX | Adrenalina
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66665
+#EXTINF:0,MX | El Garage
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66668
+#EXTINF:0,MX | Golf Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66669
+#EXTINF:0,MX | AyM Sports
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66670
+#EXTINF:0,ES | TOROS HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66671
+#EXTINF:0,CH | CDO PREMIUM
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66716
+#EXTINF:0,PE | GOL PERU
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66723
+#EXTINF:0,PE | MOVISTAR DEPORTES
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66724
+#EXTINF:0,PY | Tigo Sport
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66725
+#EXTINF:0,UY | VTV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66726
+#EXTINF:0,UY | VTV HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66727
+#EXTINF:0,CA | TSN
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66729
+#EXTINF:0,DE | Sport TV 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66730
+#EXTINF:0,DE | Sport TV 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66731
+#EXTINF:0,DE | Sport TV 3
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66732
+#EXTINF:0,DE | Sport TV 4
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66733
+#EXTINF:0,DE | Sport TV 5
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66734
+#EXTINF:0,AR | El Garage TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101686
+#EXTINF:0,AR | FOX Premium Action
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41283
+#EXTINF:0,AR | FOX Premium Action
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56483
+#EXTINF:0,AR | FOX ACTION
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56244
+#EXTINF:0,AR | FOX ACTION HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56354
+#EXTINF:0,AR | SPACE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41302
+#EXTINF:0,AR | SPACE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56497
+#EXTINF:0,AR | SPACE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56268
+#EXTINF:0,AR | SPACE HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56369
+#EXTINF:0,AR | Unimas
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41417
+#EXTINF:0,AR| ANIMAL PLANET
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67286
+#EXTINF:0,AR| ANIMAL PLANET MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67287
+#EXTINF:0,AR| ANIMAL PLANET
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67290
+#EXTINF:0,AR| DISCOVERY CHANNEL
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67291
+#EXTINF:0,AR| DISCOVERY CHANNEL FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67292
+#EXTINF:0,AR| DISCOVERY CHANNEL FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67293
+#EXTINF:0,AR| DISCOVERY H&H FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67296
+#EXTINF:0,AR| DISCOVERY H&H MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67298
+#EXTINF:0,AR| DISCOVERY SCIENCE
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67299
+#EXTINF:0,AR| DISCOVERY SCIENCE FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67300
+#EXTINF:0,AR| Discovery Theater FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67301
+#EXTINF:0,AR| DISCOVERY TURBO FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67303
+#EXTINF:0,AR| DISCOVERY TURBO MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67304
+#EXTINF:0,AR| DISCOVERY WORLD FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67306
+#EXTINF:0,AR| Discovery World
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67308
+#EXTINF:0,AR| EL GOURMET (ec)
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67310
+#EXTINF:0,AR| EL GOURMET HD (ec)
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67311
+#EXTINF:0,AR| H2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67312
+#EXTINF:0,AR| H2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67313
+#EXTINF:0,AR| HISTORY CHANNEL HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67314
+#EXTINF:0,AR| HISTORY CHANNEL
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67315
+#EXTINF:0,AR| History FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67316
+#EXTINF:0,AR| HISTORY HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67317
+#EXTINF:0,AR| HISTORY HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67318
+#EXTINF:0,AR| History SD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67319
+#EXTINF:0,AR| HISTORY HD MEX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67320
+#EXTINF:0,AR| I-SAT
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67321
+#EXTINF:0,AR| Investigation Discovery FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67323
+#EXTINF:0,AR| INVESTIGATION DISCOVERY MX  HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67324
+#EXTINF:0,AR| NAT GEO
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67326
+#EXTINF:0,AR| NAT GEO
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67327
+#EXTINF:0,AR| NATGEO HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67333
+#EXTINF:0,AR| NATGEO MX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67334
+#EXTINF:0,AR| National Geographic FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67335
+#EXTINF:0,AR| National Geographic
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67336
+#EXTINF:0,AR| NAT GEO WILD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67328
+#EXTINF:0,AR| Nat Geo Wild FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67329
+#EXTINF:0,AR| NAT GEO WILD MEX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67330
+#EXTINF:0,AR| Nat Geo Wild
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67331
+#EXTINF:0,AR| NAT GEO WILD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67332
+#EXTINF:0,AR| TLC
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67338
+#EXTINF:0,AR| TLC FHD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67339
+#EXTINF:0,AR| Tru TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67340
+#EXTINF:-1 tvg-id="" tvg-name="INF | Baby TV sd" tvg-logo="https://cdn.mitvstatic.com/channels/cl_babytv_m.png" group-title="Infantiles ",INF | Baby TV sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41455
+#EXTINF:-1 tvg-id="" tvg-name="INF | Boomerang" tvg-logo="http://playtvclub.online:8000/images/2941bb1afed3c09606b2326e21d79e07.png" group-title="Infantiles ",INF | Boomerang
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41456
+#EXTINF:-1 tvg-id="" tvg-name="INF | Cartoon Network sd" tvg-logo="http://playtvclub.online:8000/images/10e66ab639c277aa681dd4d358cfea91.png" group-title="Infantiles ",INF | Cartoon Network sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41457
+#EXTINF:-1 tvg-id="" tvg-name="INF | Discovery Kids sd" tvg-logo="http://playtvclub.online:8000/images/3d75c344cafba483ffc9c258716114de.png" group-title="Infantiles ",INF | Discovery Kids sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41458
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Channel sd" tvg-logo="http://playtvclub.online:8000/images/e19ef1cdf25d9a82a47b66b96573aa2a.png" group-title="Infantiles ",INF | Disney Channel sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41459
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Junior sd" tvg-logo="http://playtvclub.online:8000/images/7893884574d5d2493f5bda1f0904e9c0.png" group-title="Infantiles ",INF | Disney Junior sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41460
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney XD sd" tvg-logo="http://playtvclub.online:8000/images/a7916a5f222b5cbb2dc367d43e7e5a45.png" group-title="Infantiles ",INF | Disney XD sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41461
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nat Geo Kids sd" tvg-logo="http://playtvclub.online:8000/images/9002d65d3d558b181b36a88fd2349c6c.png" group-title="Infantiles ",INF | Nat Geo Kids sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41462
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nickelodeon sd" tvg-logo="http://playtvclub.online:8000/images/0fe0759ba5a9eddc88c5c6a7ea805452.png" group-title="Infantiles ",INF | Nickelodeon sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41463
+#EXTINF:-1 tvg-id="" tvg-name="INF | Tooncast sd" tvg-logo="http://playtvclub.online:8000/images/93cfd3ec0d12fce1ee11fd551e7f4e53.jpg" group-title="Infantiles ",INF | Tooncast sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41464
+#EXTINF:-1 tvg-id="" tvg-name="INF | Baby TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_babytv_m.png" group-title="Infantiles ",INF | Baby TV HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53868
+#EXTINF:-1 tvg-id="" tvg-name="INF | Cartoon Network HD" tvg-logo="http://playtvclub.online:8000/images/10e66ab639c277aa681dd4d358cfea91.png" group-title="Infantiles ",INF | Cartoon Network HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53869
+#EXTINF:-1 tvg-id="" tvg-name="INF | Nat Geo Kids HD" tvg-logo="http://playtvclub.online:8000/images/9002d65d3d558b181b36a88fd2349c6c.png" group-title="Infantiles ",INF | Nat Geo Kids HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53870
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Channel HD" tvg-logo="http://playtvclub.online:8000/images/e19ef1cdf25d9a82a47b66b96573aa2a.png" group-title="Infantiles ",INF | Disney Channel HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53871
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney Junior HD" tvg-logo="http://playtvclub.online:8000/images/7893884574d5d2493f5bda1f0904e9c0.png" group-title="Infantiles ",INF | Disney Junior HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53872
+#EXTINF:-1 tvg-id="" tvg-name="INF | Disney XD HD" tvg-logo="http://playtvclub.online:8000/images/a7916a5f222b5cbb2dc367d43e7e5a45.png" group-title="Infantiles ",INF | Disney XD HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53873
+#EXTINF:-1 tvg-id="" tvg-name="INF | Boomerang HD" tvg-logo="http://playtvclub.online:8000/images/2941bb1afed3c09606b2326e21d79e07.png" group-title="Infantiles ",INF | Boomerang HD
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53874
+#EXTINF:-1 tvg-id="" tvg-name="INF | NICKELODEON JR sd" tvg-logo="" group-title="Infantiles ",INF | NICKELODEON JR sd
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/53875
+#EXTINF:0,AR | FOX Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41307
+#EXTINF:0,AR | Sony
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41308
+#EXTINF:0,AR | Warner Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41309
+#EXTINF:0,AR | Universal Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41310
+#EXTINF:0,AR | FX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41311
+#EXTINF:0,AR | A&E
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41312
+#EXTINF:0,AR | AXN
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41313
+#EXTINF:0,AR | TruTV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41314
+#EXTINF:0,AR | Comedy Central
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41315
+#EXTINF:0,AR | Unicable
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41316
+#EXTINF:0,AR | Hola TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41317
+#EXTINF:0,AR | Mas Chic
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41318
+#EXTINF:0,AR | E! Entertainment
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41319
+#EXTINF:0,AR | Syfy
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41320
+#EXTINF:0,AR | Discovery Investigation
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41321
+#EXTINF:0,AR | El Gourmet
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41322
+#EXTINF:0,AR | Glitz
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41323
+#EXTINF:0,AR | Fox Life
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41324
+#EXTINF:0,AR | Distrito Comedia
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41325
+#EXTINF:0,AR | TBS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41326
+#EXTINF:0,AR | Tlnovelas
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41327
+#EXTINF:0,AR | Discovery Home and Health
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41328
+#EXTINF:0,AR | Lifetime
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41329
+#EXTINF:0,AR | TLC
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41330
+#EXTINF:0,AR | FX Movies
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41331
+#EXTINF:0,AR | Studio Universal
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41332
+#EXTINF:0,AR | Europa Europa
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41333
+#EXTINF:0,AR | Discovery Turbo
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41334
+#EXTINF:0,AR | Paramount
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41335
+#EXTINF:0,AR | Pasiones
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41336
+#EXTINF:0,AR | I sat
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41337
+#EXTINF:0,AR | I sat
+#EXTGRP:Argentina
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=86_&f=.m3u8
+#EXTINF:0,AR | TCM
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41340
+#EXTINF:0,AR | Distrito Comedia HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41341
+#EXTINF:0,AR | Az Cinema
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41276
+#EXTINF:0,AR | Cinecanal
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41277
+#EXTINF:0,AR | Cine Latino
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41278
+#EXTINF:0,AR | Cinemax
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41279
+#EXTINF:0,AR | De Pelicula
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41280
+#EXTINF:0,AR | De Pelicula Clasico
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41281
+#EXTINF:0,AR | De Pelicula Plus
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41282
+#EXTINF:0,AR | Fox Premium Comedy
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41284
+#EXTINF:0,AR | Fox Premium Cinema
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41285
+#EXTINF:0,AR | Fox Premium Classics
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41286
+#EXTINF:0,AR | Fox Premium Family
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41287
+#EXTINF:0,AR | Fox Premium Movies
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41288
+#EXTINF:0,AR | Fox Premium Series
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41289
+#EXTINF:0,AR | Golden
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41290
+#EXTINF:0,AR | Golden Edge
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41291
+#EXTINF:0,AR | Golden Plus
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41292
+#EXTINF:0,AR | HBO Family
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41293
+#EXTINF:0,AR | HBO
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41294
+#EXTINF:0,AR | HBO 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41295
+#EXTINF:0,AR | HBO Plus
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41296
+#EXTINF:0,AR | HBO Signature
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41297
+#EXTINF:0,AR | HBO Mundi
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41298
+#EXTINF:0,AR | HBO Pop
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41299
+#EXTINF:0,AR | HBO Xtreme
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41300
+#EXTINF:0,AR | Morbido
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41301
+#EXTINF:0,AR | Sundance Tv
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41303
+#EXTINF:0,AR | TNT
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41304
+#EXTINF:0,AR | TNT Series
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41306
+#EXTINF:0,AR | CINECANAL
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56239
+#EXTINF:0,AR | DE PELICULA
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56242
+#EXTINF:0,AR | FOX FAMILY
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56246
+#EXTINF:0,AR | FOX SERIES
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56253
+#EXTINF:0,AR | HBO
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56261
+#EXTINF:0,AR | HBO 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56263
+#EXTINF:0,AR | PARAMOUNT CHANNEL
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56265
+#EXTINF:0,AR | SONY
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56267
+#EXTINF:0,AR | Studio Universal
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56272
+#EXTINF:0,AR | TBS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56273
+#EXTINF:0,AR | TNT
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56275
+#EXTINF:0,AR | TNT SERIES
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56277
+#EXTINF:0,AR | UNIVERSAL CHANNEL
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56279
+#EXTINF:0,AR | WARNER CHANNEL
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56281
+#EXTINF:0,AR | ESTRELLA TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56287
+#EXTINF:0,AR | FX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56255
+#EXTINF:0,AR | FXM
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56257
+#EXTINF:0,AR | Azteca 7
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56441
+#EXTINF:0,AR | Canal De Las Estrellas
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56442
+#EXTINF:0,AR | Canal 5
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56443
+#EXTINF:0,AR | Imagen TV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56444
+#EXTINF:0,AR | A&E
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56445
+#EXTINF:0,AR | AXN
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56446
+#EXTINF:0,AR | Bitme
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56447
+#EXTINF:0,AR | Comedy Central
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56448
+#EXTINF:0,AR | E! entertainment
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56449
+#EXTINF:0,AR | FX
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56450
+#EXTINF:0,AR | Sony
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56451
+#EXTINF:0,AR | Syfy
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56452
+#EXTINF:0,AR | TruTV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56453
+#EXTINF:0,AR | TLC
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56454
+#EXTINF:0,AR | TNT Series
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56455
+#EXTINF:0,AR | Universal Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56456
+#EXTINF:0,AR | Warner Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56457
+#EXTINF:0,AR | Boomerang
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56458
+#EXTINF:0,AR | Cartoon Network
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56459
+#EXTINF:0,AR | Disney Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56460
+#EXTINF:0,AR | Disney Junior
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56461
+#EXTINF:0,AR | Disney XD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56462
+#EXTINF:0,AR | Discovery Kids
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56463
+#EXTINF:0,AR | Nick HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56464
+#EXTINF:0,AR | Nick JR
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56465
+#EXTINF:0,AR | Animal Planet
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56466
+#EXTINF:0,AR | Discovery Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56467
+#EXTINF:0,AR | Discovery Home and Health
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56468
+#EXTINF:0,AR | Discovery ID
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56469
+#EXTINF:0,AR | Discovery Science
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56470
+#EXTINF:0,AR | Discovery Theater
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56471
+#EXTINF:0,AR | Discovery World
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56472
+#EXTINF:0,AR | Discovery Turbo
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56473
+#EXTINF:0,AR | Food Network
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56474
+#EXTINF:0,AR | History
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56475
+#EXTINF:0,AR | History 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56476
+#EXTINF:0,AR | NatGeo Channel
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56477
+#EXTINF:0,AR | Natgeo Wild
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56478
+#EXTINF:0,AR | AMC
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56479
+#EXTINF:0,AR | Cinecanal
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56480
+#EXTINF:0,AR | Cinemax
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56481
+#EXTINF:0,AR | Fox
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56482
+#EXTINF:0,AR | Fox Premium Comedy
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56484
+#EXTINF:0,AR | Fox Premium Movies
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56485
+#EXTINF:0,AR | Fox Premium Series
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56486
+#EXTINF:0,AR | FX Movies
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56487
+#EXTINF:0,AR | Golden Plus
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56488
+#EXTINF:0,AR | Golden Premier
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56489
+#EXTINF:0,AR | HBO
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56490
+#EXTINF:0,AR | HBO 2
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56491
+#EXTINF:0,AR | HBO Family
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56492
+#EXTINF:0,AR | HBO Plus
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56493
+#EXTINF:0,AR | HBO Signature
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56494
+#EXTINF:0,AR | Max Prime
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56495
+#EXTINF:0,AR | Morbido
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56496
+#EXTINF:0,AR | Studio Universal
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56498
+#EXTINF:0,AR | TNT
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56499
+#EXTINF:0,AR | MTV
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56500
+#EXTINF:0,Telesur HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67341
+#EXTINF:0,AR | Animal Planet HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56337
+#EXTINF:0,AR | Cinecanal HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56340
+#EXTINF:0,AR | Comedy Central HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56341
+#EXTINF:0,AR | HBO 2 HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56342
+#EXTINF:0,AR | Discovery Channel HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56343
+#EXTINF:0,AR | Discovery Home & Health HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56345
+#EXTINF:0,AR | Discovery Investigation HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56346
+#EXTINF:0,AR | Discovery Kids HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56347
+#EXTINF:0,AR | Fox Cinema HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56355
+#EXTINF:0,AR | HBO Family HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56356
+#EXTINF:0,AR | Fox Comedy HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56357
+#EXTINF:0,AR | Fox Family HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56358
+#EXTINF:0,AR | Fox Movies HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56359
+#EXTINF:0,AR | Fox Series HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56360
+#EXTINF:0,AR | Fox Sports 2 MX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56362
+#EXTINF:0,AR | FX Movies HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56364
+#EXTINF:0,AR | History Channel HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56365
+#EXTINF:0,AR | Paramount Network HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56366
+#EXTINF:0,AR | Pasiones TV HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56367
+#EXTINF:0,AR | Sony HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56368
+#EXTINF:0,AR | TNT Series HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56373
+#EXTINF:0,AR | TNT HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56374
+#EXTINF:0,AR | Universal Channel HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56375
+#EXTINF:0,AR | Warner Channel HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56376
+#EXTINF:0,AR | HBO Xtreme HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56378
+#EXTINF:0,AR | Discovery Theater HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56379
+#EXTINF:0,AR | Fox HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56380
+#EXTINF:0,AR | FX HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56381
+#EXTINF:0,AR | AMC HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56384
+#EXTINF:0,AR | A&E HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56385
+#EXTINF:0,AR | Nick HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56388
+#EXTINF:0,AR | HBO Plus HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56389
+#EXTINF:0,AR | HBO HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56391
