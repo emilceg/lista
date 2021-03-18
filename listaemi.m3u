@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A 24" tvg-logo="http://51.222.105.31:8080/images/b9ebef771b9c403eef68b635f2a5fc28.png" group-title="Argentina",A 24
+#EXTINF:-1 tvg-id="" tvg-name="A 24" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/A%2024.png" group-title="Argentina",A 24
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101664
-#EXTINF:-1 tvg-id="" tvg-name="América 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",América 2
+#EXTINF:-1 tvg-id="" tvg-name="América 2" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/América%202.png" group-title="Argentina",América 2
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101662
 #EXTINF:-1 tvg-id="" tvg-name="AR | LN +" tvg-logo="" group-title="Argentina",AR | LN +
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101668
