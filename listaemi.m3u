@@ -64,11 +64,13 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1854372037.m3u8
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56337
 #EXTINF:-1 tvg-id="" tvg-name="Canal Animal Planet (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png" group-title="Cultura",Canal Animal Planet (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67290
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (Discovery HD)" tvg-logo="http://51.222.105.31:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Cultura",Discovery Channel (Discovery HD)
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://51.222.105.31:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Cultura",Discovery Channel
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56343
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Channel (México)" tvg-logo="http://51.222.105.31:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Cultura",Canal Discovery Channel (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56467
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Channel (Venezuela)" tvg-logo="http://51.222.105.31:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Cultura",Canal Discovery Channel (Venezuela)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/67291
 #EXTINF:-1 tvg-id="" tvg-name="Home &amp; Health" tvg-logo="http://51.222.43.170:36995/images/b41e57ff40d1065a3fda8023cfdb9409.png" group-title="Cultura",Home &amp; Health
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41328
+#EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Home &amp; Health (México)" tvg-logo="http://51.222.43.170:36995/images/b41e57ff40d1065a3fda8023cfdb9409.png" group-title="Cultura",Canal Discovery Home &amp; Health (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41328
