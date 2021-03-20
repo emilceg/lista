@@ -80,6 +80,10 @@
     <display-name lang="es">Discovery Channel (Discovery HD)</display-name>
     <url>http://www.movistar.co.EK</url>
   </channel>
+  <channel id="DISCOVERY">
+    <display-name lang="es">DISCOVERY</display-name>
+    <url>http://www.reportvMulti.com.ar</url>
+  </channel>
   <channel id="Home &amp; Health">
     <display-name lang="es">Home &amp; Health</display-name>
     <url>http://www.telered.com.ar</url>
@@ -87,6 +91,10 @@
   <channel id="Canal Discovery Home &amp; Health (México)">
     <display-name lang="es">Canal Discovery Home &amp; Health (México)</display-name>
     <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HOME AND HEALTH">
+    <display-name lang="es">HOME AND HEALTH</display-name>
+    <url>http://www.reportvMulti.com.ar</url>
   </channel>
   <programme start="20210320000000 -0300" stop="20210320003000 -0300" channel="A24">
     <title lang="es">Rumbo norte</title>
