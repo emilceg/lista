@@ -3,27 +3,27 @@
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101664
 #EXTINF:-1 tvg-id="" tvg-name="AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",AMÉRICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101662
-#EXTINF:-1 tvg-id="" tvg-name="La Nación" tvg-logo="" group-title="Argentina",La Nación
+#EXTINF:-1 tvg-id="" tvg-name="La Nación" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/La%20Naci%C3%B3n.png" group-title="Argentina",La Nación
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101668
 #EXTINF:-1 tvg-id="" tvg-name="Net Tv" tvg-logo="" group-title="Argentina",Net Tv
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101685
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://51.222.105.31:8080/images/4320ed421c8efca775f6c6c0be21ad92.png" group-title="Argentina",C5N
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101666
-#EXTINF:-1 tvg-id="" tvg-name="Crónica TV" tvg-logo="" group-title="Argentina",Crónica TV
+#EXTINF:-1 tvg-id="" tvg-name="Crónica TV" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/Cr%C3%B3nica%20TV.png" group-title="Argentina",Crónica TV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
-#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="" group-title="Argentina",TV PUBLICA
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/TV%20PUBLICA.png" group-title="Argentina",TV PUBLICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101673
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Córdoba" tvg-logo="" group-title="Argentina",Canal 8 Córdoba
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Córdoba" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/Canal%208%20C%C3%B3rdoba.png" group-title="Argentina",Canal 8 Córdoba
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1616093145~exp=1616269545~acl=/i/canal8cordoba_1@685726/*~hmac=002bf7860f9b6f3b38bbc50e3c079da507d80df3d40bd853b9124aafcf1dd78a
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="" group-title="Argentina",Canal 9
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Córdoba" tvg-logo="" group-title="Argentina",Canal 10 Córdoba
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Córdoba" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/Canal%2010%20C%C3%B3rdoba.png" group-title="Argentina",Canal 10 Córdoba
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1690397581_b1500000_slen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="" group-title="Argentina",TELEFE
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/TELEFE.png" group-title="Argentina",TELEFE
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101678
-#EXTINF:-1 tvg-id="" tvg-name="Telefe Rosario" tvg-logo=""Argentina",Telefe Rosario
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Rosario" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/TELEFE.png"Argentina",Telefe Rosario
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101680
-#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="" group-title="Argentina",El Trece
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/El%20Trece.png" group-title="Argentina",El Trece
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101681
 #EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="" group-title="Argentina",Encuentro
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101689
