@@ -14,7 +14,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
 #EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/TV%20PUBLICA.png" group-title="Argentina",TV PUBLICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101673
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 Córdoba" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/Canal%208%20C%C3%B3rdoba.png" group-title="Argentina",Canal 8 Córdoba
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1619288478~exp=1619464878~acl=/i/canal8cordoba_1@685726/*~hmac=e449c65ae29161adbd94d9cbaa74ded1abddc2ce155f1da9b753c3046eb7e6cc
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1620524230~exp=1620700630~acl=/i/canal8cordoba_1@685726/*~hmac=f71cc74a60a440799aefeafcc52c61f11084a5bcfbbbc1f196378d82ef4becb5
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="" group-title="Argentina",Canal 9
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Córdoba" tvg-logo="https://github.com/emilceg/lista/blob/main/Logos/Canal%2010%20C%C3%B3rdoba.png" group-title="Argentina",Canal 10 Córdoba
