@@ -317,6 +317,8 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56499
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168092
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="Cine",TCM
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41340
+#EXTINF:-1 tvg-id="" tvg-name="Deportv " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="Deportes",Deportv 
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/147405
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101701
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://51.222.105.31:8080/images/8a1deda029cf0e61340ed468c2233ac5.png" group-title="Deportes",ESPN
@@ -331,8 +333,12 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66700
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66702
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66704
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",DIRECTV SPORTS
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41241
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Deportes",DIRECTV SPORTS 2
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101709
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORTS Plus
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41242
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1" group-title="Deportes",TNT SPORTS
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101697
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports Premium" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Deportes",FOX Sports Premium
