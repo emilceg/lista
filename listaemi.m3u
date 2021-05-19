@@ -322,16 +322,18 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/147405
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101701
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://51.222.105.31:8080/images/8a1deda029cf0e61340ed468c2233ac5.png" group-title="Deportes",ESPN
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41264
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66709
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66710
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101699
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="http://51.222.105.31:8080/images/143380cf85ca0841124c873be03b2e26.png" group-title="Deportes",FOX Sport
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="https://cable10.com/imagenes/programacion/canales_0015s_0003_Layer%2018.jpg" group-title="Deportes",FOX Sport
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66700
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="http://51.222.105.31:8080/images/143380cf85ca0841124c873be03b2e26.png" group-title="Deportes",FOX Sports 1
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41264
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66702
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66704
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORTS
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41241
@@ -340,6 +342,6 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101709
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORTS Plus
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41242
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1" group-title="Deportes",TNT SPORTS
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101697
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66714
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports Premium" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Deportes",FOX Sports Premium
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/170254
