@@ -33,7 +33,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101675
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55668
 #EXTINF:-1 tvg-id="" tvg-name="Canal IP Digital" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Argentina",Canal IP Digital
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal U" tvg-logo="" group-title="Argentina",Canal U
+#EXTINF:-1 tvg-id="" tvg-name="Canal U" tvg-logo="http://www.radiosargentina.com.ar/png/VICANALU.png" group-title="Argentina",Canal U
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w2108845189_b700000_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universidad TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.tv_universidad_nacional_de_la_plata_large.png.5fb8eeb66b5c3bbe506439affa08fc42.png" group-title="Argentina",Universidad TV
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
@@ -49,21 +49,21 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 https://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://cable10.com/imagenes/programacion/canales_0002s_0000_Layer%20117.jpg" group-title="Argentina",FRANCE 24
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Argentina",DW
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="Argentina",DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina",Canal 26
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="https://cable10.com/imagenes/programacion/canales_0002s_0001_Layer%20116.jpg" group-title="Argentina",Hispan TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1820234404_b644100_slen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="" group-title="Argentina",Argentinísima Satelital
+#EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina",Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1502141439_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="" group-title="Argentina",KZO Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Argentina",KZO Entertainment
 https://www.youtube.com/watch?v=mRu4nE8FWsQ
-#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="http://62.210.100.84:25461/images/33fb81cfcfe14feb35b77779a0e05369.jpg" group-title="Chile",CNN Chile
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="https://cable10.com/imagenes/programacion/canales_0012s_0004_Layer%2053.jpg" group-title="Chile",CNN Chile
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41260
 #EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTsQE9CBaqRsB-LG5951-N90EzMm4u3llJQ&usqp=CAU" group-title="Chile",TVN HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41245
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="" group-title="Argentina",Canal 22
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1854372037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diputados TV" tvg-logo="https://cable10.com/imagenes/programacion/diputadostv.jpg" group-title="Argentina",Diputados TV
 https://youtu.be/r8I7EJwIn00
