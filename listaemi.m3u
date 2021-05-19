@@ -171,14 +171,16 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41338
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://cable10.com/imagenes/programacion/tooncast.jpg" group-title="Animación",Tooncast
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41464
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://51.222.105.31:8080/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="Animación",Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://cable10.com/imagenes/programacion/canales_0014s_0005_Layer%2024.jpg" group-title="Animación",Boomerang
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56458
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://51.222.105.31:8080/images/592f39a20337ab180c43c6a2c5cfd29c.jpeg" group-title="Animación",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://cable10.com/imagenes/programacion/canales_0014s_0000_Layer%2029.jpg" group-title="Animación",Cartoon Network
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56459
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://51.222.105.31:8080/images/3dba657c47f68e8eb18667824146d8c6.png" group-title="Animación",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://cable10.com/imagenes/programacion/canales_0014s_0003_Layer%2026.jpg" group-title="Animación",Disney Channel
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56460
-#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://51.222.105.31:8080/images/6b9050815c14cfb7f8acfff2379b81d9.jpeg" group-title="Animación",Nick
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://cable10.com/imagenes/programacion/3952.png" group-title="Animación",Nick
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56464
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka" tvg-logo="https://cable10.com/imagenes/programacion/canales_0014s_0007_Layer%2022.jpg" group-title="Animación",Paka Paka
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101687
 #EXTINF:-1 tvg-id="" tvg-name="CineAr" tvg-logo="https://cable10.com/imagenes/programacion/1605.png" group-title="Cine",CineAr
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/167249
 #EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="http://51.222.105.31:8080/images/57727c519b400de901cd35c041bb5775.jpg" group-title="Cine",Film & Arts
