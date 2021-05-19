@@ -181,7 +181,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169538
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56448
 #EXTINF:-1 tvg-id="" tvg-name="STAR Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="Series",STAR Channel
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41307
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo="https://imgur.com/a/QQ56fFl" group-title="Series",STAR CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="Series",STAR CHANNEL FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169371
 #EXTINF:-1 tvg-id="" tvg-name="Star Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Star_Series_2021.png/1200px-Star_Series_2021.png" group-title="Series",Star Series HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/166716
@@ -189,19 +189,19 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/166716
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56267
 #EXTINF:-1 tvg-id="" tvg-name="SONY FHD" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0006_Layer%2044.jpg" group-title="Series",SONY FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169345
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://51.222.105.31:8080/images/b343e0f6449236510c6cb532a4bad667.png" group-title="Series",TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://cable10.com/imagenes/programacion/2999.png" group-title="Series",TNT SERIES
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56277
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="http://51.222.105.31:8080/images/ba641061f62f58d9d80c5ca827267d16.png" group-title="Series",TNT SERIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="https://cable10.com/imagenes/programacion/2999.png" group-title="Series",TNT SERIES FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169347
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://cable10.com/imagenes/programacion/canales_0005s_0005_Layer%2098.jpg" group-title="Series",WARNER CHANNEL
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56281
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD (Dual Audio)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0005s_0005_Layer%2098.jpg" group-title="Series",WARNER CHANNEL FHD (Dual Audio)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169348
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://51.222.105.31:8080/images/5af46b08db5b3fdd9bc60aa62f6cf3aa.jpg" group-title="Series",FX
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://51.222.105.31:8080/images/71d937af1b91044cc8ac27279d0367cb.png" group-title="Series",FX
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56255
 #EXTINF:-1 tvg-id="" tvg-name="FX FHD (DUAL AUDIO)" tvg-logo="http://51.222.105.31:8080/images/71d937af1b91044cc8ac27279d0367cb.png" group-title="Series",FX FHD (DUAL AUDIO)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169387
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://51.222.105.31:8080/images/923b1db7aea407ede3eee3b8aa53aab7.jpg" group-title="Series",Syfy
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://51.222.105.31:8080/images/3413bb42d072d3f8a4a0640be6dfb121.png" group-title="Series",Syfy
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168094
 #EXTINF:-1 tvg-id="" tvg-name="SyFy FHD" tvg-logo="http://51.222.105.31:8080/images/3413bb42d072d3f8a4a0640be6dfb121.png" group-title="Series",SyFy FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169382
@@ -209,9 +209,9 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169382
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41326
 #EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0003_Layer%2047.jpg" group-title="Series",TBS FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169379
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://51.222.105.31:8080/images/d6ffad7e8fa45bed0bc6cfcc4719d9a6.jpg" group-title="Cine",SPACE
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" group-title="Cine",SPACE
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56268
-#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="http://51.222.105.31:8080/images/c63d35a60d53b341f34bb7f3ddc082c5.jpg" group-title="Series",SPACE FHD
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" group-title="Series",SPACE FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169346
 #EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png" group-title="Cine",Europa Europa
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41333
@@ -219,7 +219,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41333
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56272
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://cable10.com/imagenes/programacion/2910.png" group-title="Cine",PARAMOUNT CHANNEL
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56265
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://51.222.105.31:8080/images/abdc64a922770df2035f66a0c6ae605a.png" group-title="Cine",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0007_Layer%2043.jpg" group-title="Cine",UNIVERSAL CHANNEL
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56279
 #EXTINF:-1 tvg-id="" tvg-name="Star Cinema HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoClaro.png.1f7c2778a8012927edfd5c9ee5f2d585.png" group-title="Cine",Star Cinema HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/166724
@@ -249,9 +249,9 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169374
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56487
 #EXTINF:-1 tvg-id="" tvg-name="FXM FHD" tvg-logo="http://51.222.105.31:8080/images/298040a2f88f1e0650e6bcba395a74dd.jpg" group-title="Cine",FXM FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169351
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="http://51.222.105.31:8080/images/9b7fe2293350be0d0d8a40f3ddebc79f.jpg" group-title="Cine",Golden Edge
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cine",Golden Edge
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168142
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="http://51.222.105.31:8080/images/cfc61bd08eb575f9066d0b3a6364bce0.jpg" group-title="Cine",Golden Plus
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="Cine",Golden Plus
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56488
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS FHD" tvg-logo="http://51.222.105.31:8080/images/c8b2f701d0151a86658c75f8019459bc.png" group-title="Cine",GOLDEN PLUS FHD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169352
@@ -291,11 +291,11 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169375
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168147
 #EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://cable10.com/imagenes/programacion/hbo-pop.jpg" group-title="Cine",HBO Pop
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169378
-#EXTINF:-1 tvg-id="" tvg-name="Morbido" tvg-logo="http://51.222.105.31:8080/images/aa319aaafb47bc1f40a7eb326053abb1.jpg" group-title="Cine",Morbido
+#EXTINF:-1 tvg-id="" tvg-name="Morbido" tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg" group-title="Cine",Morbido
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56496
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0010_Layer%2040.jpg" group-title="Cine",TNT
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56499
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://51.222.105.31:8080/images/2069b17df0a3ad6902ee27ee67d9fc20.jpg" group-title="Cine",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="Cine",TCM
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168092
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://51.222.105.31:8080/images/08a9ae19917cf129bf1140295845ba2d.png" group-title="Cine",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0016_Layer%2034.jpg" group-title="Cine",TCM
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41340
