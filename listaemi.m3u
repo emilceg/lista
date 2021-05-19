@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A 24" tvg-logo="http://51.222.105.31:8080/images/b9ebef771b9c403eef68b635f2a5fc28.png" group-title="Argentina",A24
+#EXTINF:-1 tvg-id="" tvg-name="A 24" tvg-logo="https://cable10.com/imagenes/programacion/a24.png" group-title="Argentina",A24
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101664
 #EXTINF:-1 tvg-id="" tvg-name="AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",AMÉRICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101662
@@ -7,7 +7,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101662
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101668
 #EXTINF:-1 tvg-id="" tvg-name="Net Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Argentina",Net Tv
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101685
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://51.222.105.31:8080/images/4320ed421c8efca775f6c6c0be21ad92.png" group-title="Argentina",C5N
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://cable10.com/imagenes/programacion/c5n.png" group-title="Argentina",C5N
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101666
 #EXTINF:-1 tvg-id="" tvg-name="Crónica TV" tvg-logo="https://cable10.com/imagenes/programacion/cronica-hd.png" group-title="Argentina",Crónica TV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
