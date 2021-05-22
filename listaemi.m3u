@@ -14,7 +14,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
 #EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Argentina",TV PUBLICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101673
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 Córdoba" tvg-logo="https://3.bp.blogspot.com/-cn1a-pdxSoc/WHvOxhjztjI/AAAAAAAABZM/GmkW-H-61q4HYwGN_YqK6dy_K6tk9u25ACLcB/s1600/canal8-cordoba.png" group-title="Argentina",Canal 8 Córdoba
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1621717130~exp=1621893530~acl=/i/canal8cordoba_1@685726/*~hmac=7da57bb0ff18e6473219c99d25c2eaf8c2cae1e832b938124214a6b85f8c14ff
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1621441624~exp=1621618024~acl=/i/canal8cordoba_1@685726/*~hmac=e4c705a992ef37168e63f2e944ee4f46fbfba76cb975e459c5cd3f3b75e101de
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://cable10.com/imagenes/programacion/nueve.jpg" group-title="Argentina",Canal 9
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="Argentina",Canal 10 Córdoba
@@ -57,14 +57,16 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 https://live.presstv.com/live/smil:live.smil/chunklist_w1820234404_b644100_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina",Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1502141439_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Argentina",KZO Entertainment
-https://www.youtube.com/watch?v=mRu4nE8FWsQ
+#EXTINF:-1 tvg-id="" tvg-name="GEN TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Argentina",GEN TV
+https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="https://cable10.com/imagenes/programacion/canales_0012s_0004_Layer%2053.jpg" group-title="Chile",CNN Chile
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41260
 #EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTsQE9CBaqRsB-LG5951-N90EzMm4u3llJQ&usqp=CAU" group-title="Chile",TVN HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41245
 #EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="Argentina",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1854372037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNIFE.png" group-title="Argentina",UNIFE
+https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diputados TV" tvg-logo="https://cable10.com/imagenes/programacion/diputadostv.jpg" group-title="Argentina",Diputados TV
 https://youtu.be/r8I7EJwIn00
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons S01 a S20 (e)(720)" tvg-logo="http://51.222.105.31:25461/images/213909635b44f11490eea127484565b2.png" group-title="24/7 - VIP (Lat)",Los Simpsons S01 a S20 (e)(720)
