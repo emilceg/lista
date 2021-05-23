@@ -115,7 +115,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168874
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168875
 #EXTINF:-1 tvg-id="" tvg-name="Cantiflas" tvg-logo="http://51.222.105.31:8080/images/5b83fe01bef31b9843b2446fa24e4a42.jpg" group-title="24/7 - Espanol",Cantiflas
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169044
-#EXTINF:-1 tvg-id="" tvg-name="Canal Animal Planet (Panregional)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png" group-title="Cultura",Canal Animal Planet (Panregional)
+#EXTINF:-1 tvg-id="" tvg-name="Canal Animal Planet (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png" group-title="Cultura",Canal Animal Planet (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169518
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Channel (México)" tvg-logo="http://51.222.105.31:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Cultura",Canal Discovery Channel (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169519
@@ -134,18 +134,14 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56473
 #EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l78gV6GAeK9KrOsMpwB8s_Xl-tGu2KjAX-4rAA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Cultura",HGTV HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169531
 #EXTINF:-1 tvg-id="" tvg-name="Canal History (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0001_Layer%20111.jpg" group-title="Cultura",Canal History (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168105
-#EXTINF:-1 tvg-id="" tvg-name="Canal History (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0001_Layer%20111.jpg" group-title="Cultura",Canal History (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169526
-#EXTINF:-1 tvg-id="" tvg-name="Canal History 2 (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/bee25f3f004f8d427658004226ad4548.png" group-title="Cultura",Canal History 2 (Latinoamérica)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168104
 #EXTINF:-1 tvg-id="" tvg-name="Canal History 2 (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/bee25f3f004f8d427658004226ad4548.png" group-title="Cultura",Canal History 2 (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169527
 #EXTINF:-1 tvg-id="" tvg-name="Canal National Geographic (México)" tvg-logo="https://cable10.com/imagenes/programacion/2710.png" group-title="Cultura",Canal National Geographic (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56477
 #EXTINF:-1 tvg-id="" tvg-name="Canal Nat Geo Wild" tvg-logo="https://cable10.com/imagenes/programacion/1403.png" group-title="Cultura",Canal Nat Geo Wild
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56478
-#EXTINF:-1 tvg-id="" tvg-name="Canal ID (Investigation Discovery) México" tvg-logo="https://cable10.com/imagenes/programacion/canales_0009s_0011_Layer%2075.jpg" group-title="Cultura",Canal ID (Investigation Discovery) México
+#EXTINF:-1 tvg-id="" tvg-name="Investigación Discovery" tvg-logo="https://cable10.com/imagenes/programacion/canales_0009s_0011_Layer%2075.jpg" group-title="Cultura",Investigación Discovery
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56469
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/discovery-science.png?itok=NDlWi00F" group-title="Cultura",Discovery Science
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56470
@@ -157,7 +153,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56449
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56445
 #EXTINF:-1 tvg-id="" tvg-name="Canal MTV (Latinoamérica)" tvg-logo="https://cable10.com/imagenes/programacion/25.png" group-title="Cultura",Canal MTV (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56500
-#EXTINF:-1 tvg-id="" tvg-name="Canal MTV (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/4f71b9bffecd6d11c4977e26801f7536.png" group-title="Cultura",Canal MTV (Latinoamérica)
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://51.222.105.31:8080/images/4f71b9bffecd6d11c4977e26801f7536.png" group-title="Cultura",MTV HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169604
 #EXTINF:-1 tvg-id="" tvg-name="Canal Much Music" tvg-logo="http://51.222.105.31:8080/images/aa091f5bb4051152424c8d84a6ef95b3.png" group-title="Cultura",Canal Much Music
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169606
