@@ -141,9 +141,9 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56477
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56478
 #EXTINF:-1 tvg-id="" tvg-name="Canal Investigation Discovery (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0009s_0011_Layer%2075.jpg" group-title="Cultura",Canal Investigation Discovery (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56469
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/discovery-science.png?itok=NDlWi00F" group-title="Cultura",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Science (Latinoamérica)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/discovery-science.png?itok=NDlWi00F" group-title="Cultura",Canal Discovery Science (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56470
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://51.222.105.31:8080/images/e8d68292eebd5be66d40e5905213bf9a.png" group-title="Cultura",TLC
+#EXTINF:-1 tvg-id="" tvg-name="Canal TLC (México)" tvg-logo="http://51.222.105.31:8080/images/e8d68292eebd5be66d40e5905213bf9a.png" group-title="Cultura",Canal TLC (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41330
 #EXTINF:-1 tvg-id="" tvg-name="Canal E! Entertainment Television (Panregional)" tvg-logo="https://1.bp.blogspot.com/-7ALc5ITC-kg/X9T1W7AE0eI/AAAAAAAA7ns/dGdTN_LvmOYenaB3Ycfa1FzuwlU2pAKrwCLcBGAsYHQ/s1028/E%2521_Logo_2012.png" group-title="Cultura",Canal E! Entertainment Television (Panregional)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56449
@@ -151,7 +151,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56449
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56445
 #EXTINF:-1 tvg-id="" tvg-name="Canal MTV (Latinoamérica)" tvg-logo="https://cable10.com/imagenes/programacion/25.png" group-title="Cultura",Canal MTV (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56500
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://51.222.105.31:8080/images/4f71b9bffecd6d11c4977e26801f7536.png" group-title="Cultura",MTV
+#EXTINF:-1 tvg-id="" tvg-name="Canal MTV (Sur)" tvg-logo="http://51.222.105.31:8080/images/4f71b9bffecd6d11c4977e26801f7536.png" group-title="Cultura",Canal MTV (Sur)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169604
 #EXTINF:-1 tvg-id="" tvg-name="Canal Much Music" tvg-logo="http://51.222.105.31:8080/images/aa091f5bb4051152424c8d84a6ef95b3.png" group-title="Cultura",Canal Much Music
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169606
@@ -211,7 +211,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56281
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56255
 #EXTINF:-1 tvg-id="" tvg-name="Canal FX (Chile)" tvg-logo="http://51.222.105.31:8080/images/71d937af1b91044cc8ac27279d0367cb.png" group-title="Series",Canal FX (Chile)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169387
-#EXTINF:-1 tvg-id="" tvg-name="Canal SyFy" tvg-logo="http://51.222.105.31:8080/images/3413bb42d072d3f8a4a0640be6dfb121.png" group-title="Series",Canal SyFy
+#EXTINF:-1 tvg-id="" tvg-name="Canal Syfy (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/3413bb42d072d3f8a4a0640be6dfb121.png" group-title="Series",Canal Syfy (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169382
 #EXTINF:-1 tvg-id="" tvg-name="Canal TBS veryfunny Latinoamérica" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0003_Layer%2047.jpg" group-title="Series",Canal TBS veryfunny Latinoamérica
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169379
@@ -259,19 +259,19 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41294
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56490
 #EXTINF:-1 tvg-id="" tvg-name="Canal HBO 2 Latinoamérica" tvg-logo="https://cable10.com/imagenes/programacion/canales_0000s_0006_Layer%20120.jpg" group-title="Cine",Canal HBO 2 Latinoamérica
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56491
-#EXTINF:-1 tvg-id="" tvg-name="HD | HBO Family" tvg-logo="https://cable10.com/imagenes/programacion/canales_0000s_0004_Layer%20122.jpg" group-title="Entretenimiento HD",HD | HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="Canal HBO Family Latinoamérica" tvg-logo="https://cable10.com/imagenes/programacion/canales_0000s_0004_Layer%20122.jpg" group-title="Cine",Canal HBO Family Latinoamérica
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56492
 #EXTINF:-1 tvg-id="" tvg-name="Canal HBO Family Latinoamérica" tvg-logo="https://cable10.com/imagenes/programacion/canales_0000s_0004_Layer%20122.jpg" group-title="Cine",Canal HBO Family Latinoamérica
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41293
 #EXTINF:-1 tvg-id="" tvg-name="Canal HBO Plus" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/763-HBO-PlusHD.jpg" group-title="Cine",Canal HBO Plus
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56493
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206" group-title="Cine",HBO Xtreme
+#EXTINF:-1 tvg-id="" tvg-name="Canal HBO Xtreme" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206" group-title="Cine",Canal HBO Xtreme
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56495
 #EXTINF:-1 tvg-id="" tvg-name="Canal HBO Signature Latinoamérica" tvg-logo="http://51.222.105.31:8080/images/bd9bac19be8c161770a5ba7a4bb80b54.png" group-title="Cine",Canal HBO Signature Latinoamérica
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56494
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://cable10.com/imagenes/programacion/hbo-mundi.jpg" group-title="Cine",HBO Mundi
+#EXTINF:-1 tvg-id="" tvg-name="Canal HBO Mundi" tvg-logo="https://cable10.com/imagenes/programacion/hbo-mundi.jpg" group-title="Cine",Canal HBO Mundi
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41298
-#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://cable10.com/imagenes/programacion/hbo-pop.jpg" group-title="Cine",HBO Pop
+#EXTINF:-1 tvg-id="" tvg-name="Canal HBO Pop" tvg-logo="https://cable10.com/imagenes/programacion/hbo-pop.jpg" group-title="Cine",Canal HBO Pop
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169378
 #EXTINF:-1 tvg-id="" tvg-name="Morbido" tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg" group-title="Cine",Morbido
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56496
