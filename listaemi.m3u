@@ -3,9 +3,9 @@
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101664
 #EXTINF:-1 tvg-id="" tvg-name="AMÉRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",AMÉRICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101662
-#EXTINF:-1 tvg-id="" tvg-name="La Nación" tvg-logo="https://cable10.com/imagenes/programacion/57.png" group-title="Argentina",La Nación
+#EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://cable10.com/imagenes/programacion/57.png" group-title="Argentina",LN+
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101668
-#EXTINF:-1 tvg-id="" tvg-name="Net Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Argentina",Net Tv
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="Argentina",Net TV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101685
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://cable10.com/imagenes/programacion/c5n.png" group-title="Argentina",C5N
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101666
@@ -31,7 +31,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101689
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101675
 #EXTINF:-1 tvg-id="" tvg-name="Canal 20 Villa Maria" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-20-villa-maria-541.jpg" group-title="Argentina",Canal 20 Villa Maria
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55668
-#EXTINF:-1 tvg-id="" tvg-name="Canal IP Digital" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Argentina",Canal IP Digital
+#EXTINF:-1 tvg-id="" tvg-name="IP" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Argentina",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal U" tvg-logo="http://www.radiosargentina.com.ar/png/VICANALU.png" group-title="Argentina",Canal U
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w2108845189_b700000_slen.m3u8
@@ -309,5 +309,6 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101709
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41242
 #EXTINF:-1 tvg-id="" tvg-name="Canal TNT Sports" tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1" group-title="Deportes",Canal TNT Sports
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101690
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports Premium" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Deportes",FOX Sports Premium
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Deportes",Fox Sports Premium
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/170254
+
