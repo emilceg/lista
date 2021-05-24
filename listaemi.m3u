@@ -56,7 +56,7 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina",Canal 26
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="" group-title="Argentina",KZO Entertainment
-http://localhost:50152/?plugin://plugin.video.youtube/play/?video_id=FBAzNfv4V18
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=FBAzNfv4V18
 #EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="https://cable10.com/imagenes/programacion/canales_0002s_0001_Layer%20116.jpg" group-title="Argentina",Hispan TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1820234404_b644100_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina",Argentinísima Satelital
