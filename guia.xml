@@ -296,9 +296,9 @@
     <display-name lang="es">Canal Paramount Channel (México)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="UNIVERSAL">
-    <display-name lang="es">UNIVERSAL</display-name>
-    <url>http://www.telered.com.ar</url>
+  <channel id="Canal Universal TV (México)">
+    <display-name lang="es">Canal Universal TV (México)</display-name>
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Star Cinema">
     <display-name lang="es">Canal Star Cinema</display-name>
@@ -10597,6 +10597,9 @@
   <programme start="20210525123000 -0300" stop="20210525130000 -0300" channel="Canal RT en Español">
     <title lang="es">Keiser Report</title>
   </programme>
+  <programme start="20210525130000 -0300" stop="20210525133000 -0300" channel="Canal RT en Español">
+    <title lang="es">Noticias</title>
+  </programme>
   <programme start="20210525133000 -0300" stop="20210525140000 -0300" channel="Canal RT en Español">
     <title lang="es">Entrevista</title>
     <episode-num system="onscreen">S2021</episode-num>
@@ -10805,8 +10808,8 @@
   <programme start="20210525093000 -0300" stop="20210525100000 -0300" channel="Canal CGTN-Español">
     <title lang="es">Diálogo</title>
   </programme>
-  <programme start="20210525123000 -0300" stop="20210525130000 -0300" channel="Canal CGTN-Español">
-    <title lang="es">Mundo Insólito</title>
+  <programme start="20210525130000 -0300" stop="20210525132000 -0300" channel="Canal CGTN-Español">
+    <title lang="es">Ronda Artística</title>
   </programme>
   <programme start="20210525153000 -0300" stop="20210525160000 -0300" channel="Canal CGTN-Español">
     <title lang="es">Diálogo</title>
@@ -23999,8 +24002,8 @@
   <programme start="20210525100000 -0300" stop="20210525110000 -0300" channel="Canal VH1 (Latinoamérica)">
     <title lang="es">Class Of 2008</title>
   </programme>
-  <programme start="20210525110000 -0300" stop="20210525130000 -0300" channel="Canal VH1 (Latinoamérica)">
-    <title lang="es">Hits Don't Lie</title>
+  <programme start="20210525130000 -0300" stop="20210525160000 -0300" channel="Canal VH1 (Latinoamérica)">
+    <title lang="es">We Love The 00s</title>
   </programme>
   <programme start="20210525170000 -0300" stop="20210525180000 -0300" channel="Canal VH1 (Latinoamérica)">
     <title lang="es">Class Of 2008</title>
@@ -27890,8 +27893,8 @@
   <programme start="20210525055000 -0300" stop="20210525060000 -0300" channel="Canal Tooncast">
     <title lang="es">Zuzubalandia</title>
   </programme>
-  <programme start="20210525123500 -0300" stop="20210525130000 -0300" channel="Canal Tooncast">
-    <title lang="es">Samurai Jack</title>
+  <programme start="20210525130000 -0300" stop="20210525132400 -0300" channel="Canal Tooncast">
+    <title lang="es">Pokémon: Sol y luna</title>
   </programme>
   <programme start="20210526060000 -0300" stop="20210526063000 -0300" channel="Canal Tooncast">
     <title lang="es">La Liga de la Justicia Unlimited</title>
@@ -28309,8 +28312,8 @@
   <programme start="20210525020000 -0300" stop="20210525030000 -0300" channel="Canal Boomerang (México)">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20210525120000 -0300" stop="20210525130000 -0300" channel="Canal Boomerang (México)">
-    <title lang="es">¡Ponte en onda, Scooby Doo</title>
+  <programme start="20210525130000 -0300" stop="20210525133000 -0300" channel="Canal Boomerang (México)">
+    <title lang="es">Mónica y su pandilla</title>
   </programme>
   <programme start="20210525210000 -0300" stop="20210525211500 -0300" channel="Canal Boomerang (México)">
     <title lang="es">Taffy</title>
@@ -29853,8 +29856,19 @@
   <programme start="20210525033000 -0300" stop="20210525040000 -0300" channel="Canal Nickelodeon (México)">
     <title lang="es">Henry Danger</title>
   </programme>
-  <programme start="20210525123000 -0300" stop="20210525130000 -0300" channel="Canal Nickelodeon (México)">
-    <title lang="es">Danger Force</title>
+  <programme start="20210525130000 -0300" stop="20210525133000 -0300" channel="Canal Nickelodeon (México)">
+    <title lang="es">The Loud House</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.</desc>
+    <credits>
+      <producer>Karen Malach</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/the_loud_house.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20210525220000 -0300" stop="20210525223000 -0300" channel="Canal Nickelodeon (México)">
     <title lang="es">The Loud House</title>
@@ -47360,1502 +47374,690 @@
   <programme start="20210527230000 -0300" stop="20210528010000 -0300" channel="Canal Paramount Channel (México)">
     <title lang="es">Vidas Al Límite</title>
   </programme>
-  <programme start="20210524014000 -0300" stop="20210524023500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Pégame</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
+  <programme start="20210524004500 -0300" stop="20210524023500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">No me las Toquen</title>
+    <title lang="xx">Blockers</title>
+    <desc lang="es">Tres padres descubren el pacto de sus hijas para perder su virginidad en la fiesta de graduación, buscarán la forma de evitarlo antes que lo hagan.</desc>
     <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
+      <actor>John Cena</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Ike Barinholtz</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>Amelia Oswald</actor>
+      <actor>Audrey Casson</actor>
+      <actor>Anniston Almond</actor>
+      <actor>Aubree McGuire</actor>
+      <producer>Seth Rogen</producer>
+      <producer>Evan Goldberg</producer>
+      <composer>Tracy Bonham</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/no_me_las_toquen.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210524023500 -0300" stop="20210524033000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
       <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
       <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524023500 -0300" stop="20210524032500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">La canción de Gregory Williams Yates</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524032500 -0300" stop="20210524041500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Noctámbulo</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524041500 -0300" stop="20210524050000 -0300" channel="UNIVERSAL">
-    <title lang="es">MacGyver</title>
-    <sub-title lang="es">Albañil + Cable + Decisiones</sub-title>
-    <desc lang="es">Angus MacGyver, también llamado Mac, es un agente secreto de una organización del gobierno de Estados Unidos, donde usa su talento extraordinario para resolver problemas y su amplio conocimiento de la ciencia para salvar vidas.</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Meredith Eaton</actor>
-      <actor>Tristin Mays</actor>
-      <actor>Henry Ian Cusick</actor>
-      <actor>Justin Hires</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Acción</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11663257.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524050000 -0300" stop="20210524054500 -0300" channel="UNIVERSAL">
-    <title lang="es">MacGyver</title>
-    <sub-title lang="es">Bricolaje o morir</sub-title>
-    <desc lang="es">Angus MacGyver, también llamado Mac, es un agente secreto de una organización del gobierno de Estados Unidos, donde usa su talento extraordinario para resolver problemas y su amplio conocimiento de la ciencia para salvar vidas.</desc>
-    <credits>
-      <actor>Sandrine Holt</actor>
-      <actor>George Eads</actor>
-      <actor>Meredith Eaton</actor>
-      <actor>Tristin Mays</actor>
-      <actor>Henry Ian Cusick</actor>
-      <actor>Justin Hires</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Acción</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11663257.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524054500 -0300" stop="20210524060000 -0300" channel="UNIVERSAL">
-    <title lang="es">Hollywood en primer plano</title>
-    <title lang="xx">Close Up with the Hollywood Reporter</title>
-    <sub-title lang="es">Compositores</sub-title>
-    <desc lang="es">Un espacio que profundiza en los actores del momento, las actrices más cotizadas, los directores que marcan tendencia y los responsables de las últimas películas más taquilleras.</desc>
-    <credits>
-      <actor>Lacey Rose</actor>
-      <actor>Stephen Galloway</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Documental</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11275832.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524060000 -0300" stop="20210524063000 -0300" channel="UNIVERSAL">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">La tragedia del parque de caravanas</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.</desc>
-    <credits>
-      <actor>Charles Adams</actor>
-      <actor>Michael Hill</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Elton Leblanc</actor>
-      <actor>Judy Ho</actor>
-      <actor>Donald M. Krause</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4294143.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524063000 -0300" stop="20210524072000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Intentarlo lo más posible</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524072000 -0300" stop="20210524081500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">La ballena blanca</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524081500 -0300" stop="20210524091000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Quién debe juzgar</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524091000 -0300" stop="20210524100500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Los fantasmas del pasado</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524100500 -0300" stop="20210524120500 -0300" channel="UNIVERSAL">
-    <title lang="es">Sing, ¡ven y canta!</title>
-    <title lang="xx">Sing</title>
-    <desc lang="es">Buster Moon es un koala que está al frente del que alguna vez fuera uno de los teatros más importantes de la ciudad. Él busca revivir la gloria del recinto a través del más grande concurso de canto del mundo.</desc>
-    <credits>
-      <director>Garth Jennings</director>
-      <actor>Reese Witherspoon</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Matthew Mcconaughey</actor>
-      <actor>Jennifer Saunders</actor>
-      <actor>Scarlett Johansson</actor>
-      <actor>Peter Serafinowicz</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4393845.jpg" />
-    <country lang="es">Japón</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20210524120500 -0300" stop="20210524130000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Búsqueda triste</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524130000 -0300" stop="20210524140000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Estándar de depravación</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524140000 -0300" stop="20210524150000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Depredador en línea</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524150000 -0300" stop="20210524160000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Intentarlo lo más posible</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524160000 -0300" stop="20210524170000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">La ballena blanca</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524170000 -0300" stop="20210524180000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Los casos que deben resolverse</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524180000 -0300" stop="20210524190000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Migaja calibre cuarenta</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524190000 -0300" stop="20210524200000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Búsqueda triste</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524200000 -0300" stop="20210524210000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Estándar de depravación</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524210000 -0300" stop="20210524220000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Lo mejor es enemigo de lo bueno</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524220000 -0300" stop="20210524230000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Los muertos del invierno</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524230000 -0300" stop="20210524230000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Instinto</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210524230000 -0300" stop="20210525000000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Instinto</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525000000 -0300" stop="20210525005500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Los casos que deben resolverse</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525005500 -0300" stop="20210525015000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Migaja calibre cuarenta</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525015000 -0300" stop="20210525024000 -0300" channel="UNIVERSAL">
-    <title lang="es">Dr. House</title>
-    <title lang="xx">House M.D.</title>
-    <sub-title lang="es">Medicina familiar</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.</desc>
-    <credits>
-      <actor>Omar Epps</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Hugh Laurie</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Jennifer Morrison</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4155385.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525024000 -0300" stop="20210525032500 -0300" channel="UNIVERSAL">
-    <title lang="es">Dr. House</title>
-    <title lang="xx">House M.D.</title>
-    <sub-title lang="es">Lo fundamental</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.</desc>
-    <credits>
-      <actor>Omar Epps</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Hugh Laurie</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Jennifer Morrison</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4155385.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525032500 -0300" stop="20210525041000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Quién debe juzgar</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525041000 -0300" stop="20210525060000 -0300" channel="UNIVERSAL">
-    <title lang="es">Sing, ¡ven y canta!</title>
-    <title lang="xx">Sing</title>
-    <desc lang="es">Buster Moon es un koala que está al frente del que alguna vez fuera uno de los teatros más importantes de la ciudad. Él busca revivir la gloria del recinto a través del más grande concurso de canto del mundo.</desc>
-    <credits>
-      <director>Garth Jennings</director>
-      <actor>Reese Witherspoon</actor>
-      <actor>John C. Reilly</actor>
-      <actor>Matthew Mcconaughey</actor>
-      <actor>Jennifer Saunders</actor>
-      <actor>Scarlett Johansson</actor>
-      <actor>Peter Serafinowicz</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Animación</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4393845.jpg" />
-    <country lang="es">Japón</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20210525060000 -0300" stop="20210525063000 -0300" channel="UNIVERSAL">
-    <title lang="es">It Takes a Killer</title>
-    <sub-title lang="es">Un fugitivo y un asesino</sub-title>
-    <desc lang="es">En cada episodio, los investigadores expertos revisan la evidencia, perfilan el comportamiento de cada asesino y describen los escalofriantes detalles forenses de cada caso.</desc>
-    <credits>
-      <actor>Charles Adams</actor>
-      <actor>Michael Hill</actor>
-      <actor>Owen Thomas</actor>
-      <actor>Elton Leblanc</actor>
-      <actor>Judy Ho</actor>
-      <actor>Donald M. Krause</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4294143.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525063000 -0300" stop="20210525072500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">No te abandonaré</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525072500 -0300" stop="20210525082000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Tierra sagrada</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525082000 -0300" stop="20210525091500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Med</title>
-    <sub-title lang="es">En el nombre del amor</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525091500 -0300" stop="20210525101000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Solo un río en Egipto</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525101000 -0300" stop="20210525120500 -0300" channel="UNIVERSAL">
-    <title lang="es">Amor eterno</title>
-    <title lang="xx">Endless Love</title>
-    <desc lang="es">Jade, una tímida joven de familia privilegiada, y David, un chico carismático y divertido, se enamoran perdidamente durante un verano. Cuando el padre de ella intenta separarlos, su pasión los llevará a arrastrar situaciones temerarias.</desc>
-    <credits>
-      <director>Shana Feste</director>
-      <actor>Joely Richardson</actor>
-      <actor>Robert Patrick</actor>
-      <actor>Jeff Pope</actor>
-      <actor>Alex Pettyfer</actor>
-      <actor>Patrick Johnson</actor>
-      <actor>Rhys Wakefield</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
     </credits>
     <date>2014</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7830272.jpg" />
-    <country lang="es">EE. UU.</country>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210525120500 -0300" stop="20210525130000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. El incidente de la casa</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
+  <programme start="20210524033000 -0300" stop="20210524042000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
     <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525130000 -0300" stop="20210525140000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Un malentendido</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525140000 -0300" stop="20210525150000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Cuarenta y uno testigos</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525150000 -0300" stop="20210525160000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">No te abandonaré</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
+      <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524042000 -0300" stop="20210524051000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524051000 -0300" stop="20210524060000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524060000 -0300" stop="20210524065000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Macgyver</title>
+    <episode-num system="onscreen">S3 E22</episode-num>
+  </programme>
+  <programme start="20210524065000 -0300" stop="20210524073500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Macgyver</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20210524073500 -0300" stop="20210524080000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20210524080000 -0300" stop="20210524090000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">House MD</title>
+    <episode-num system="onscreen">S7 E12</episode-num>
+  </programme>
+  <programme start="20210524090000 -0300" stop="20210524100000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
       <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
+      <actor>Taylor Kinney</actor>
       <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
     </credits>
     <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S7 E20</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210525160000 -0300" stop="20210525170000 -0300" channel="UNIVERSAL">
+  <programme start="20210524100000 -0300" stop="20210524105500 -0300" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Tierra sagrada</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
     <credits>
-      <actor>Jon Seda</actor>
       <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
+      <actor>Taylor Kinney</actor>
       <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
     </credits>
     <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S7 E21</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210525170000 -0300" stop="20210525180000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Kasual con K</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525180000 -0300" stop="20210525190000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Si fuéramos normales</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525190000 -0300" stop="20210525200000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. El incidente de la casa</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525200000 -0300" stop="20210525210000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Un malentendido</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525210000 -0300" stop="20210525215000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. En el año en el que nos caímos todos</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525215000 -0300" stop="20210525225000 -0300" channel="UNIVERSAL">
-    <title lang="es">FBI</title>
-    <sub-title lang="es">Controles y equilibrios</sub-title>
-    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom ’OA’ Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.</desc>
-    <credits>
-      <actor>Jeremy Sisto</actor>
-      <actor>Missy Peregrym</actor>
-      <actor>Mac Brandt</actor>
-      <actor>Zeeko Zaki</actor>
-      <actor>Ebonee Noel</actor>
-      <actor>Jonathan Avigdori</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8184856.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525225000 -0300" stop="20210525235000 -0300" channel="UNIVERSAL">
-    <title lang="es">FBI: Most Wanted</title>
-    <sub-title lang="es">Most Wanted. Telarañas</sub-title>
-    <desc lang="es">Una serie que muestra el trabajo de la división del FBI que debe perseguir y capturar a los notorios criminales que integran la lista de los más buscados.</desc>
-    <credits>
-      <actor>Nathaniel Arcand</actor>
-      <actor>Andrea Bianchi</actor>
-      <actor>Julian Mcmahon</actor>
-      <actor>Lorne Cardinal</actor>
-      <actor>Andrea Jackson</actor>
-      <actor>Gerald Bunsen</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11012964.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525235000 -0300" stop="20210525235000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Kasual con K</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210525235000 -0300" stop="20210526004500 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Kasual con K</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526004500 -0300" stop="20210526014000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Si fuéramos normales</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526014000 -0300" stop="20210526023000 -0300" channel="UNIVERSAL">
-    <title lang="es">Dr. House</title>
-    <title lang="xx">House M.D.</title>
-    <sub-title lang="es">Dos historias</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.</desc>
-    <credits>
-      <actor>Omar Epps</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Hugh Laurie</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Jennifer Morrison</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4155385.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526023000 -0300" stop="20210526031500 -0300" channel="UNIVERSAL">
-    <title lang="es">Dr. House</title>
-    <title lang="xx">House M.D.</title>
-    <sub-title lang="es">A prueba de recesión</sub-title>
-    <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.</desc>
-    <credits>
-      <actor>Omar Epps</actor>
-      <actor>Lisa Edelstein</actor>
-      <actor>Hugh Laurie</actor>
-      <actor>Peter Jacobson</actor>
-      <actor>Amber Tamblyn</actor>
-      <actor>Jennifer Morrison</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4155385.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526031500 -0300" stop="20210526040000 -0300" channel="UNIVERSAL">
+  <programme start="20210524105500 -0300" stop="20210524115000 -0300" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">En el nombre del amor</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
+    <episode-num system="onscreen">S5 E16</episode-num>
   </programme>
-  <programme start="20210526040000 -0300" stop="20210526054500 -0300" channel="UNIVERSAL">
-    <title lang="es">Te amo, Brother</title>
-    <title lang="xx">I Love You, Man</title>
-    <desc lang="es">Peter Klaven acaba de comprometerse con Zooey, pero se siente mal porque no tiene ningún amigo que pueda ser su padrino de boda. Entonces, decide realizar una serie de citas con desconocidos, hasta que por fin conoce a Sydney.</desc>
-    <credits>
-      <actor>Paul Rudd</actor>
-      <actor>Jaime Pressly</actor>
-      <actor>Jane Curtin</actor>
-      <actor>Jason Segel</actor>
-      <actor>Rashida Jones</actor>
-      <actor>Mather Zickel</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4750140.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+16</value>
-    </rating>
-  </programme>
-  <programme start="20210526054500 -0300" stop="20210526060000 -0300" channel="UNIVERSAL">
-    <title lang="es">Hollywood en primer plano</title>
-    <title lang="xx">Close Up with the Hollywood Reporter</title>
-    <sub-title lang="es">Escritores</sub-title>
-    <desc lang="es">Un espacio que profundiza en los actores del momento, las actrices más cotizadas, los directores que marcan tendencia y los responsables de las últimas películas más taquilleras.</desc>
-    <credits>
-      <actor>Lacey Rose</actor>
-      <actor>Stephen Galloway</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Documental</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11275832.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526060000 -0300" stop="20210526061500 -0300" channel="UNIVERSAL">
-    <title lang="es">Hollywood en primer plano</title>
-    <title lang="xx">Close Up with the Hollywood Reporter</title>
-    <sub-title lang="es">Actores de drama</sub-title>
-    <desc lang="es">Un espacio que profundiza en los actores del momento, las actrices más cotizadas, los directores que marcan tendencia y los responsables de las últimas películas más taquilleras.</desc>
-    <credits>
-      <actor>Lacey Rose</actor>
-      <actor>Stephen Galloway</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Documental</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11275832.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526061500 -0300" stop="20210526070000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Un verdadero disparo en el brazo</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526070000 -0300" stop="20210526075000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Tierras baldías</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
-    <credits>
-      <actor>Jon Seda</actor>
-      <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
-      <actor>Monica Raymund</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526075000 -0300" stop="20210526084500 -0300" channel="UNIVERSAL">
+  <programme start="20210524115000 -0300" stop="20210524124500 -0300" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Una aguja en el corazón</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
+    <episode-num system="onscreen">S5 E17</episode-num>
+  </programme>
+  <programme start="20210524124500 -0300" stop="20210524144500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Sing: ¡Ven y Canta!</title>
+    <desc lang="es">Buster es un talentoso empresario de teatro que para salvarlo crea una competencia de canto, convirtiéndose en el evento más esperado de la ciudad.</desc>
     <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Taron Egerton</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Peter Serafinowicz</actor>
+      <actor>Seth MacFarlane</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+      <composer>Joby Talbot</composer>
     </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_ven_y_canta.jpg" />
     <rating>
-      <value>+13</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210526084500 -0300" stop="20210526094000 -0300" channel="UNIVERSAL">
+  <programme start="20210524144500 -0300" stop="20210524154000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E8</episode-num>
+  </programme>
+  <programme start="20210524154000 -0300" stop="20210524163500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E9</episode-num>
+  </programme>
+  <programme start="20210524163500 -0300" stop="20210524173000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E10</episode-num>
+  </programme>
+  <programme start="20210524173000 -0300" stop="20210524182500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S7 E20</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524182500 -0300" stop="20210524192000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S7 E21</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524192000 -0300" stop="20210524201500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524201500 -0300" stop="20210524211000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210524211000 -0300" stop="20210524220500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E8</episode-num>
+  </programme>
+  <programme start="20210524220500 -0300" stop="20210524230000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E9</episode-num>
+  </programme>
+  <programme start="20210524230000 -0300" stop="20210524235500 -0300" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Med</title>
-    <sub-title lang="es">Descarrilado</sub-title>
-    <desc lang="es">Un viaje a través del caos cotidiano del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>Torrey Devitto</actor>
-      <actor>Yaya Dacosta</actor>
-      <actor>Jeff Hephner</actor>
-      <actor>César Jaime</actor>
-      <actor>Marlyne Barrett</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2050506.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
+    <episode-num system="onscreen">S6 E7</episode-num>
   </programme>
-  <programme start="20210526094000 -0300" stop="20210526120500 -0300" channel="UNIVERSAL">
-    <title lang="es">La leyenda del Zorro</title>
-    <title lang="xx">The Legend of Zorro</title>
-    <desc lang="es">El Zorro está obligado a cumplir la promesa que le hizo a su mujer: llevar adelante una vida normal, abandonando su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.</desc>
-    <credits>
-      <director>Martin Campbell</director>
-      <actor>Mary Crosby</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Leo Burmester</actor>
-      <actor>Antonio Banderas</actor>
-      <actor>Catherine Zeta-jones</actor>
-      <actor>Raúl Méndez</actor>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Aventura</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10561803.jpg" />
-    <country lang="es">México</country>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20210526120500 -0300" stop="20210526130000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Cacería humana a nivel nacional</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526130000 -0300" stop="20210526140000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Daño colateral</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526140000 -0300" stop="20210526150000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Víctimas</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
-    <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526150000 -0300" stop="20210526160000 -0300" channel="UNIVERSAL">
+  <programme start="20210524235500 -0300" stop="20210525005000 -0300" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Un verdadero disparo en el brazo</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
     <credits>
-      <actor>Jon Seda</actor>
       <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
+      <actor>Taylor Kinney</actor>
       <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
     </credits>
     <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S9 E7</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210526160000 -0300" stop="20210526170000 -0300" channel="UNIVERSAL">
+  <programme start="20210525235500 -0300" stop="20210526005000 -0300" channel="Canal Universal TV (México)">
     <title lang="es">Chicago Fire</title>
-    <sub-title lang="es">Tierras baldías</sub-title>
-    <desc lang="es">No hay trabajo más peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos 51 de Chicago. Estos hombres y mujeres se lanzan al peligro cuando todos los demás corren en dirección contraria.</desc>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
     <credits>
-      <actor>Jon Seda</actor>
       <actor>Jesse Spencer</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Christian Stolte</actor>
-      <actor>Charlie Barnett</actor>
+      <actor>Taylor Kinney</actor>
       <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
     </credits>
     <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2049903.jpg" />
-    <country lang="es">EE. UU.</country>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S9 E7</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210526170000 -0300" stop="20210526180000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">En un bolso</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
+  <programme start="20210526005000 -0300" stop="20210526014500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
     <credits>
-      <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
       <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
-      <actor>Archie Kao</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
-    <rating>
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20210526180000 -0300" stop="20210526190000 -0300" channel="UNIVERSAL">
-    <title lang="es">Chicago P.D.</title>
-    <sub-title lang="es">Justicia</sub-title>
-    <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.</desc>
-    <credits>
       <actor>Jon Seda</actor>
-      <actor>Amy Morton</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Jason Beghe</actor>
-      <actor>Ian Bohen</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
       <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
     </credits>
-    <date>2013</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/805220.jpg" />
-    <country lang="es">EE. UU.</country>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S8 E7</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210526190000 -0300" stop="20210526200000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Cacería humana a nivel nacional</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
+  <programme start="20210526014500 -0300" stop="20210526024000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
     <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
     </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E16</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210526200000 -0300" stop="20210526210000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Daño colateral</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
+  <programme start="20210526024000 -0300" stop="20210526033500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
     <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
     </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E17</episode-num>
     <rating>
-      <value>+13</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210526210000 -0300" stop="20210526220000 -0300" channel="UNIVERSAL">
-    <title lang="es">La ley y el orden: U.V.E.</title>
-    <title lang="xx">Law and Order: Special Victims Unit</title>
-    <sub-title lang="es">U.V.E. Víctimas</sub-title>
-    <desc lang="es">Mientras los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, intentan balancear los efectos de la investigación en sus propias vidas.</desc>
+  <programme start="20210526033500 -0300" stop="20210526042500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">House MD</title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20210526042500 -0300" stop="20210526051000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">House MD</title>
+    <episode-num system="onscreen">S7 E12</episode-num>
+  </programme>
+  <programme start="20210526051000 -0300" stop="20210526055500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Med</title>
+    <episode-num system="onscreen">S5 E16</episode-num>
+  </programme>
+  <programme start="20210526055500 -0300" stop="20210526074500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Sing: ¡Ven y Canta!</title>
+    <desc lang="es">Buster es un talentoso empresario de teatro que para salvarlo crea una competencia de canto, convirtiéndose en el evento más esperado de la ciudad.</desc>
     <credits>
-      <actor>Ice-t</actor>
-      <actor>Christopher Meloni</actor>
-      <actor>B. D. Wong</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Dann Florek</actor>
-      <actor>Joanna Merlin</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Taron Egerton</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Peter Serafinowicz</actor>
+      <actor>Seth MacFarlane</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+      <composer>Joby Talbot</composer>
     </credits>
-    <date>1999</date>
-    <category lang="es">Policial</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4224197.jpg" />
-    <country lang="es">EE. UU.</country>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_ven_y_canta.jpg" />
     <rating>
-      <value>+13</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210526220000 -0300" stop="20210526230000 -0300" channel="UNIVERSAL">
-    <title lang="es">Magnum</title>
-    <title lang="xx">Magnum P.I.</title>
-    <sub-title lang="es">Una bala llamada destino</sub-title>
-    <desc lang="es">Un ex SEAL de la Marina regresa a casa desde Afganistán y utiliza sus habilidades militares para convertirse en investigador privado en Hawai.</desc>
+  <programme start="20210526074500 -0300" stop="20210526080000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Close Up with the Hollywood</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20210526080000 -0300" stop="20210526090000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">House MD</title>
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20210526090000 -0300" stop="20210526100000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
     <credits>
-      <actor>Amy Hill</actor>
-      <actor>Jay Hernandez</actor>
-      <actor>Domenick Lombardozzi</actor>
-      <actor>Perdita Weeks</actor>
-      <actor>Zachary Knighton</actor>
-      <actor>Tim Kang</actor>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
     </credits>
-    <date>2018</date>
-    <category lang="es">Acción</category>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10861214.jpg" />
-    <country lang="es">EE. UU.</country>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S7 E22</episode-num>
     <rating>
-      <value>+18</value>
+      <value>TV-14</value>
     </rating>
+  </programme>
+  <programme start="20210526100000 -0300" stop="20210526110000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210526110000 -0300" stop="20210526115500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Med</title>
+    <episode-num system="onscreen">S5 E18</episode-num>
+  </programme>
+  <programme start="20210526115500 -0300" stop="20210526125000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Med</title>
+    <episode-num system="onscreen">S5 E19</episode-num>
+  </programme>
+  <programme start="20210526125000 -0300" stop="20210526144500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Amor eterno</title>
+  </programme>
+  <programme start="20210526144500 -0300" stop="20210526154000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E11</episode-num>
+  </programme>
+  <programme start="20210526154000 -0300" stop="20210526163500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E12</episode-num>
+  </programme>
+  <programme start="20210526163500 -0300" stop="20210526173000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E13</episode-num>
+  </programme>
+  <programme start="20210526173000 -0300" stop="20210526182500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S7 E22</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210526182500 -0300" stop="20210526192000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210526192000 -0300" stop="20210526201500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210526201500 -0300" stop="20210526211000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.</desc>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Jon Seda</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Archie Kao</actor>
+      <producer>Terry Miller</producer>
+      <producer>Jamie Pachino</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_p_d.jpg" />
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210526211000 -0300" stop="20210526220500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E11</episode-num>
+  </programme>
+  <programme start="20210526220500 -0300" stop="20210526230000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S17 E12</episode-num>
+  </programme>
+  <programme start="20210526230000 -0300" stop="20210526235000 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">La ley y el orden UVE</title>
+    <episode-num system="onscreen">S22 E12</episode-num>
+  </programme>
+  <programme start="20210526235000 -0300" stop="20210527004500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Fbi</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20210527235000 -0300" stop="20210528004500 -0300" channel="Canal Universal TV (México)">
+    <title lang="es">Fbi</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
   <programme start="20210524013900 -0300" stop="20210524030500 -0300" channel="Canal Star Cinema">
     <title lang="es">El bebe de Rosemary 2</title>
@@ -59591,8 +58793,8 @@
   <programme start="20210525100000 -0300" stop="20210525120000 -0300" channel="Canal Fox Sports Premium (Argentina)">
     <title lang="es">Deporte: Será Anunciado</title>
   </programme>
-  <programme start="20210525120000 -0300" stop="20210525130000 -0300" channel="Canal Fox Sports Premium (Argentina)">
-    <title lang="es">Expediente Futbol</title>
+  <programme start="20210525130000 -0300" stop="20210525150000 -0300" channel="Canal Fox Sports Premium (Argentina)">
+    <title lang="es">UFC Clásicos</title>
   </programme>
   <programme start="20210525190000 -0300" stop="20210525191500 -0300" channel="Canal Fox Sports Premium (Argentina)">
     <title lang="es">Deporte: Será Anunciado</title>
