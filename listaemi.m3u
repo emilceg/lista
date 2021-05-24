@@ -55,7 +55,9 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina",Canal 26
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
-#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="" group-title="Argentina",KZO Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="El doce" tvg-logo="https://tedxcordoba.com.ar/wp-content/uploads/2017/11/eldocetv.jpg" group-title="Argentina",El doce
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=gBbMbqILzXU
+#EXTINF:-1 tvg-id="" tvg-name="KZO Entertainment" tvg-logo="http://www.radiosargentina.com.ar/png/VI---KZO.png" group-title="Argentina",KZO Entertainment
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=FBAzNfv4V18
 #EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="https://cable10.com/imagenes/programacion/canales_0002s_0001_Layer%20116.jpg" group-title="Argentina",Hispan TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1820234404_b644100_slen.m3u8
@@ -72,7 +74,7 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1854372037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNIFE.png" group-title="Argentina",UNIFE
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diputados TV" tvg-logo="https://cable10.com/imagenes/programacion/diputadostv.jpg" group-title="Argentina",Diputados TV
-https://youtu.be/r8I7EJwIn00
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=r8I7EJwIn00
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons S01 a S20 (e)(720)" tvg-logo="http://51.222.105.31:25461/images/213909635b44f11490eea127484565b2.png" group-title="24/7 - VIP (Lat)",Los Simpsons S01 a S20 (e)(720)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168917
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons S20 a S30  (e)(720)" tvg-logo="http://51.222.105.31:25461/images/abc4ddcc0329d02babac413048332b3b.png" group-title="24/7 - VIP (Lat)",Los Simpsons S20 a S30  (e)(720)
@@ -131,7 +133,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56472
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169520
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Turbo (Latinoamérica)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0003_Layer%20109.jpg" group-title="Cultura",Canal Discovery Turbo (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56473
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l78gV6GAeK9KrOsMpwB8s_Xl-tGu2KjAX-4rAA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Cultura",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78gV6GAeK9KrOsMpwB8s_Xl-tGu2KjAX-4rAA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Cultura",HGTV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169531
 #EXTINF:-1 tvg-id="" tvg-name="Canal History (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0001_Layer%20111.jpg" group-title="Cultura",Canal History (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169526
@@ -163,7 +165,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169577
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56453
 #EXTINF:-1 tvg-id="" tvg-name="Canal Star Life (México)" tvg-logo="https://cable10.com/imagenes/programacion/3400.png" group-title="Cultura",Canal Star Life (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168085
-#EXTINF:-1 tvg-id="" tvg-name="FoodNetwork" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w" group-title="Cultura",FoodNetwork
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w" group-title="Cultura",FOOD NETWORK
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168086
 #EXTINF:-1 tvg-id="" tvg-name="El Garage" tvg-logo="https://cable10.com/imagenes/programacion/358.png" group-title="Cultura",El Garage
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168087
@@ -283,6 +285,8 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56499
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41340
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="Deportes",DEPORTV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/147405
+#EXTINF:-1 tvg-id="" tvg-name="América Sports" tvg-logo="https://cable10.com/imagenes/programacion/canales_0015s_0006_Layer%2015.jpg" group-title="Deportes",América Sports
+http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=1SmKEIpmcLU
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101701
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://51.222.105.31:8080/images/8a1deda029cf0e61340ed468c2233ac5.png" group-title="Deportes",ESPN
