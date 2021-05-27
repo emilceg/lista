@@ -16,7 +16,7 @@ http://www.coninfo.net:1935/9linklive/live/chunklist_w772054073.m3u8
 #EXTINF:-1,Canal 10 Cordoba
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1982897744_b1500000_slen.m3u8
 #EXTINF:-1,Canal 8 Córdoba
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1622063168~exp=1622239568~acl=/i/canal8cordoba_1@685726/*~hmac=931da7f1d58dd406d88d57b3c91ea4e5e17574352f77f554b79626f9376ea7ce
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1622155166~exp=1622331566~acl=/i/canal8cordoba_1@685726/*~hmac=262a68831d86c16f7533554bed1b6608ccb85d4ec0783e30bb9220405cf8a0fc
 #EXTINF:-1,TELEFE
 https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=C7ZPp3m8sqnC8SUdQ_dd9w&e=1620001211
 #EXTINF:-1, Telefe Rosario
