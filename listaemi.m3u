@@ -14,7 +14,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
 #EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Argentina",TV PUBLICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101673
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 Córdoba" tvg-logo="https://3.bp.blogspot.com/-cn1a-pdxSoc/WHvOxhjztjI/AAAAAAAABZM/GmkW-H-61q4HYwGN_YqK6dy_K6tk9u25ACLcB/s1600/canal8-cordoba.png" group-title="Argentina",Canal 8 Córdoba
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1622155166~exp=1622331566~acl=/i/canal8cordoba_1@685726/*~hmac=262a68831d86c16f7533554bed1b6608ccb85d4ec0783e30bb9220405cf8a0fc
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1621863363~exp=1622039763~acl=/i/canal8cordoba_1@685726/*~hmac=eedf2f74870ff7e1ae5b547f4ee50958e6a440064a219afefd5411cf7dd057a2
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://cable10.com/imagenes/programacion/nueve.jpg" group-title="Argentina",Canal 9
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="Argentina",Canal 10 Córdoba
@@ -76,79 +76,77 @@ https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_
 #EXTINF:-1 tvg-id="" tvg-name="Diputados TV" tvg-logo="https://cable10.com/imagenes/programacion/diputadostv.jpg" group-title="Argentina",Diputados TV
 http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=r8I7EJwIn00
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons S01 a S20 (e)(720)" tvg-logo="http://51.222.105.31:25461/images/213909635b44f11490eea127484565b2.png" group-title="24/7 - VIP (Lat)",Los Simpsons S01 a S20 (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168917
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204028
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons S20 a S30  (e)(720)" tvg-logo="http://51.222.105.31:25461/images/abc4ddcc0329d02babac413048332b3b.png" group-title="24/7 - VIP (Lat)",Los Simpsons S20 a S30  (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168918
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204029
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons (M)" tvg-logo="http://51.222.105.31:8080/images/fd79b9da791a2a7ded7a4713a8f76f0f.jpg" group-title="24/7 - Infantiles",Los Simpsons (M)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169098
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204202
 #EXTINF:-1 tvg-id="" tvg-name="Futurama (e)(720)" tvg-logo="http://51.222.105.31:25461/images/7bbe13c253f04119f9aad51302cdd725.png" group-title="24/7 - VIP (Lat)",Futurama (e)(720)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168885
 #EXTINF:-1 tvg-id="" tvg-name="South Park (e)(720)" tvg-logo="http://51.222.105.31:25461/images/c9849d8fda5c23a588f63ff953e8af14.png" group-title="24/7 - VIP (Lat)",South Park (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168958
+http://51.222.105.31:8080/movie/emilce08022021/PwqxkxDsYj/169823.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Thundercats (e)" tvg-logo="http://51.222.105.31:25461/images/1fc525d59801e6adeb1bc3b8dc5f34aa.png" group-title="24/7 - VIP (Lat)",Los Thundercats (e)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168920
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204030
 #EXTINF:-1 tvg-id="" tvg-name="Los Halcones Galacticos (e)(SD)" tvg-logo="http://51.222.105.31:25461/images/55081036db837ee24e997ac2c6e8d15a.png" group-title="24/7 - VIP (Lat)",Los Halcones Galacticos (e)(SD)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168912
 #EXTINF:-1 tvg-id="" tvg-name="Sailor Moon (e)(720)" tvg-logo="http://51.222.105.31:25461/images/5fdc4f0d12830798bf9f98dcfa25f84b.png" group-title="24/7 - VIP (Lat)",Sailor Moon (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168950
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204063
 #EXTINF:-1 tvg-id="" tvg-name="Sailor Moon Crystal (e)(720)" tvg-logo="http://51.222.105.31:25461/images/49c683a6a708bf17d6421caa4e485985.png" group-title="24/7 - VIP (Lat)",Sailor Moon Crystal (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168951
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204064
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco (e)(720)" tvg-logo="http://51.222.105.31:25461/images/ef44ff0dc8380f8e9c6ab299b534f5a2.png" group-title="24/7 - VIP (Lat)",Caballeros del Zodiaco (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168833
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/203957
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco Hades & Alma de oro (e)(720)" tvg-logo="http://51.222.105.31:25461/images/4a1125e67819d942e90bef3dab93ce01.png" group-title="24/7 - VIP (Lat)",Caballeros del Zodiaco Hades & Alma de oro (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168952
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204065
 #EXTINF:-1 tvg-id="" tvg-name="Sakura Card Captor (e)" tvg-logo="http://51.222.105.31:25461/images/39acf5941ae1657aec2d4cdd179eff4d.png" group-title="24/7 - VIP (Lat)",Sakura Card Captor (e)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168953
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204066
 #EXTINF:-1 tvg-id="" tvg-name="Lady Oscar La Rosa de Versalles (e)(720)" tvg-logo="http://51.222.105.31:25461/images/2e9c73cdc9dd6d972b8b29c12dd939cd.png" group-title="24/7 - VIP (Lat)",Lady Oscar La Rosa de Versalles (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168906
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204013
 #EXTINF:-1 tvg-id="" tvg-name="Alf (e)(SD)" tvg-logo="http://51.222.105.31:25461/images/266a3798a6e26366fcb40dc5ddc9a0ce.png" group-title="24/7 - VIP (Lat)",Alf (e)(SD)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168815
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204185
 #EXTINF:-1 tvg-id="" tvg-name="LGBT - Queer As Folk (e)(720)" tvg-logo="http://51.222.105.31:25461/images/48c5bf062d4202475f55f7c8cc0de485.png" group-title="24/7 - VIP (Lat)",LGBT - Queer As Folk (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168908
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204015
+#EXTINF:-1 tvg-id="" tvg-name="LGBT - The L Word (e)(SD)" tvg-logo="" group-title="24/7 - VIP (Lat)",LGBT - The L Word (e)(SD)
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204016
 #EXTINF:-1 tvg-id="" tvg-name="Xena warrior princess (e)(SD)" tvg-logo="http://51.222.105.31:25461/images/269988d944da5bd4848f45cb7c87d590.png" group-title="24/7 - VIP (Lat)",Xena warrior princess (e)(SD)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168984
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204098
 #EXTINF:-1 tvg-id="" tvg-name="Buffy La Cazavampiros (e)(720)" tvg-logo="http://51.222.105.31:25461/images/70571c8837a09a0a993da32f8d9f2011.png" group-title="24/7 - VIP (Lat)",Buffy La Cazavampiros (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168832
-#EXTINF:-1 tvg-id="" tvg-name="Glee (e)(720)" tvg-logo="http://51.222.105.31:25461/images/cea15cade7b2aec2f9b63986bf2583c0.png" group-title="24/7 - VIP (Lat)",Glee (e)(720)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168886
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/203956
 #EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado (e)(SD)" tvg-logo="http://51.222.105.31:25461/images/1909e785d54b3a0c53d0bf9b85b56530.png" group-title="24/7 - VIP (Lat)",El Chapulin Colorado (e)(SD)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168873
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204180
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 (e)(SD)" tvg-logo="http://51.222.105.31:25461/images/e98f307e7b426bae90ad9940fe347786.png" group-title="24/7 - VIP (Lat)",El Chavo del 8 (e)(SD)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168874
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204186
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 HQ (e)(SD)" tvg-logo="http://51.222.105.31:25461/images/b114084509ee7a772257c21df8d46a23.png" group-title="24/7 - VIP (Lat)",El Chavo del 8 HQ (e)(SD)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168875
-#EXTINF:-1 tvg-id="" tvg-name="Cantiflas" tvg-logo="http://51.222.105.31:8080/images/5b83fe01bef31b9843b2446fa24e4a42.jpg" group-title="24/7 - Espanol",Cantiflas
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169044
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/203929
 #EXTINF:-1 tvg-id="" tvg-name="Canal Animal Planet (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Animal_Planet_HD.svg/761px-Animal_Planet_HD.svg.png" group-title="Cultura",Canal Animal Planet (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169518
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204622
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Channel (México)" tvg-logo="http://51.222.105.31:8080/images/7c7d12fbcb69f196ec77a69a4eb98c06.png" group-title="Cultura",Canal Discovery Channel (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169519
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204320
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Home & Health (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0009s_0007_Layer%2079.jpg" group-title="Cultura",Canal Discovery Home & Health (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56468
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204626
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://cable10.com/imagenes/programacion/discovery-theater.jpg" group-title="Cultura",Canal Discovery Theater (Latinoamérica)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169522
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204630
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery World Latinoamérica" tvg-logo="http://51.222.105.31:8080/images/bb4752c93bfb14d05992b5e6a80fb367.png" group-title="Cultura",Canal Discovery World Latinoamérica
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56472
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204634
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Civilization (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/b27cb75895345521997131c49cd75432.png" group-title="Cultura",Canal Discovery Civilization (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169520
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Turbo (Latinoamérica)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0003_Layer%20109.jpg" group-title="Cultura",Canal Discovery Turbo (Latinoamérica)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56473
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204632
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://yt3.ggpht.com/a/AGF-l78gV6GAeK9KrOsMpwB8s_Xl-tGu2KjAX-4rAA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Cultura",HGTV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169531
 #EXTINF:-1 tvg-id="" tvg-name="Canal History (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0001_Layer%20111.jpg" group-title="Cultura",Canal History (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169526
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204640
 #EXTINF:-1 tvg-id="" tvg-name="Canal History 2 (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/bee25f3f004f8d427658004226ad4548.png" group-title="Cultura",Canal History 2 (Latinoamérica)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169527
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204638
 #EXTINF:-1 tvg-id="" tvg-name="Canal National Geographic (México)" tvg-logo="https://cable10.com/imagenes/programacion/2710.png" group-title="Cultura",Canal National Geographic (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56477
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204648
 #EXTINF:-1 tvg-id="" tvg-name="Canal Nat Geo Wild" tvg-logo="https://cable10.com/imagenes/programacion/1403.png" group-title="Cultura",Canal Nat Geo Wild
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56478
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204646
 #EXTINF:-1 tvg-id="" tvg-name="Canal Investigation Discovery (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0009s_0011_Layer%2075.jpg" group-title="Cultura",Canal Investigation Discovery (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56469
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204644
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Science (Latinoamérica)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/discovery-science.png?itok=NDlWi00F" group-title="Cultura",Canal Discovery Science (Latinoamérica)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56470
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204628
 #EXTINF:-1 tvg-id="" tvg-name="Canal TLC (México)" tvg-logo="http://51.222.105.31:8080/images/e8d68292eebd5be66d40e5905213bf9a.png" group-title="Cultura",Canal TLC (México)
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41330
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204651
 #EXTINF:-1 tvg-id="" tvg-name="Canal E! Entertainment Television (Panregional)" tvg-logo="https://1.bp.blogspot.com/-7ALc5ITC-kg/X9T1W7AE0eI/AAAAAAAA7ns/dGdTN_LvmOYenaB3Ycfa1FzuwlU2pAKrwCLcBGAsYHQ/s1028/E%2521_Logo_2012.png" group-title="Cultura",Canal E! Entertainment Television (Panregional)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56449
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="Canal A&E (México)" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0005_Layer%2045.jpg" group-title="Cultura",Canal A&E (México)
@@ -162,7 +160,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169606
 #EXTINF:-1 tvg-id="" tvg-name="Canal VH1 (Latinoamérica)" tvg-logo="http://51.222.105.31:8080/images/db15d5cb4a4683bf81a6e051bc138285.jpg" group-title="Cultura",Canal VH1 (Latinoamérica)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169577
 #EXTINF:-1 tvg-id="" tvg-name="Canal truTV" tvg-logo="https://cable10.com/imagenes/programacion/canales_0004s_0006_Layer%20106.jpg" group-title="Cultura",Canal truTV
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56453
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204653
 #EXTINF:-1 tvg-id="" tvg-name="Canal Star Life (México)" tvg-logo="https://cable10.com/imagenes/programacion/3400.png" group-title="Cultura",Canal Star Life (México)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/168085
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w" group-title="Cultura",FOOD NETWORK
@@ -313,4 +311,3 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41242
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101690
 #EXTINF:-1 tvg-id="" tvg-name="Canal Fox Sports Premium (Argentina)" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Deportes",Canal Fox Sports Premium (Argentina)
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/170254
-
