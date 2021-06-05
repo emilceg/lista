@@ -21,7 +21,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1690397581_b1500000_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="Cable",TELEFE
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101678
-#EXTINF:-1 tvg-id="" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg"Cable",Telefe Rosario
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Rosario" tvg-logo="https://lh3.googleusercontent.com/-KNE27rU05SI/XzgfWidnEYI/AAAAAAAA4W4/5oJjapTKgrA6Uxus1bDxbJ2zvCEQ8JIRACK8BGAsYHg/s0/2020-08-15.jpg" group-title="Cable",Telefe Rosario
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101680
 #EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://cable10.com/imagenes/programacion/trece.jpg" group-title="Cable",El Trece
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101681
