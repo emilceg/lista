@@ -81,10 +81,16 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204261
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56497
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="Cable",DEPORTV
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/147405
-#EXTINF:-1 tvg-id="" tvg-name="América Sports" tvg-logo="https://cable10.com/imagenes/programacion/canales_0015s_0006_Layer%2015.jpg" group-title="Cable",América Sports
-http://localhost:62555/?plugin://plugin.video.youtube/play/?video_id=1SmKEIpmcLU
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1" group-title="Cable",TNT Sports
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101690
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Cable",Fox Sports Premium
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/170254
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Cable",TyC Sports
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101701
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://51.222.105.31:8080/images/057a6c9bbc85c08bd6202e830da44fcb.png" group-title="Cable",TyC Sports
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66712
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfVThLP3kgf57atec1i03ElPlNGtfmDbS3Q2ON52Bme-VZaPV9ee8uszwD0-YSI4snxqcVhmpQ&usqp=CAU&ec=45732301" group-title="Cable",TyC Sports Internacional
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66713
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://51.222.105.31:8080/images/8a1deda029cf0e61340ed468c2233ac5.png" group-title="Cable",ESPN
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66709
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="Cable",ESPN 2
@@ -93,8 +99,6 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66710
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101699
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="https://cable10.com/imagenes/programacion/canales_0015s_0003_Layer%2018.jpg" group-title="Cable",FOX Sport
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66700
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="http://51.222.105.31:8080/images/143380cf85ca0841124c873be03b2e26.png" group-title="Cable",FOX Sports 1
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41264
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Cable",FOX Sports 2
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66702
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Cable",FOX Sports 3
@@ -107,10 +111,6 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204266
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204422
 #EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM" tvg-logo="http://51.222.105.31:8080/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="Cable",CDO PREMIUM
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66716
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1" group-title="Cable",TNT Sports
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101690
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="http://51.222.105.31:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="Cable",Fox Sports Premium
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/170254
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sport HD" tvg-logo="http://51.222.105.31:8080/images/9cf8886ad93cb12600a72949c8ce4039.jpg" group-title="Cable",Claro Sport HD
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66667
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES HD" tvg-logo="http://51.222.105.31:8080/images/5b2e742dee65b2dd473e720bb62359ee.jpg" group-title="Cable",MOVISTAR DEPORTES HD
