@@ -50,6 +50,8 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169494
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVdMyqjnGRm7Sx2wSg-RbxgOx8msFxAaxA_mmmUPj4zEZDgAb&s" group-title="Cable",Azteca 7
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56441
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Canal 26
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101670
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Canal 26
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="Canal U" tvg-logo="http://www.radiosargentina.com.ar/png/VICANALU.png" group-title="Cable",Canal U
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w2108845189_b700000_slen.m3u8
@@ -61,8 +63,6 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55686
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55747
 #EXTINF:-1 tvg-id="" tvg-name="Litus TV" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png" group-title="Cable",Litus TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w980205208_b1531904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Canal 26
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" group-title="Cable",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Cable",Telesur
