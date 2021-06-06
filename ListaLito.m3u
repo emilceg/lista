@@ -14,7 +14,7 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101671
 #EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Cable",TV PUBLICA
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101673
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 Córdoba" tvg-logo="https://3.bp.blogspot.com/-cn1a-pdxSoc/WHvOxhjztjI/AAAAAAAABZM/GmkW-H-61q4HYwGN_YqK6dy_K6tk9u25ACLcB/s1600/canal8-cordoba.png" group-title="Cable",Canal 8 Córdoba
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1622901981~exp=1623078381~acl=/i/canal8cordoba_1@685726/*~hmac=0a6c389a9a24666000ff0f77b74a12b0ecf6aefb0a32ceb18c243b2933d8c147
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1622478938~exp=1622655338~acl=/i/canal8cordoba_1@685726/*~hmac=e18a3cf03435cc7c2b98630cf4869e115e31ce10989d6dc704d7a12cdae4f753
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://cable10.com/imagenes/programacion/nueve.jpg" group-title="Cable",Canal 9
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101677
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="Cable",Canal 10 Córdoba
@@ -29,10 +29,28 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101681
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101689
 #EXTINF:-1 tvg-id="" tvg-name="Todo Noticias" tvg-logo="https://cable10.com/imagenes/programacion/tn.jpg" group-title="Cable",Todo Noticias
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101675
-#EXTINF:-1 tvg-id="" tvg-name="Canal 20 Villa Maria" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-20-villa-maria-541.jpg" group-title="Cable",Canal 20 Villa Maria
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55668
 #EXTINF:-1 tvg-id="" tvg-name="IP" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Cable",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEN TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Cable",GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1502141439_b1912000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNIFE.png" group-title="Cable",UNIFE
+https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 20 Villa Maria" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-20-villa-maria-541.jpg" group-title="Cable",Canal 20 Villa Maria
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55668
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://51.222.43.170:36995/images/a9252dcb4eae3a97e0dd312d42125937.jpg" group-title="Cable",Glitz
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204452
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="Cable",Canal 22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1854372037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5zPGmbFO-kT7FI2DTPXqqt6YxI_itpI-_Ie8LvgYPkHRF1YF&s" group-title="Cable",Telemundo
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41338
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="http://51.222.105.31:8080/images/a60955804b3022db0d387007d7c5d3d9.jpg" group-title="Cable",Telemundo Miami
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/169494
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVdMyqjnGRm7Sx2wSg-RbxgOx8msFxAaxA_mmmUPj4zEZDgAb&s" group-title="Cable",Azteca 7
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56441
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Canal 26
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="Canal U" tvg-logo="http://www.radiosargentina.com.ar/png/VICANALU.png" group-title="Cable",Canal U
 https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/chunklist_w2108845189_b700000_slen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universidad TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.tv_universidad_nacional_de_la_plata_large.png.5fb8eeb66b5c3bbe506439affa08fc42.png" group-title="Cable",Universidad TV
@@ -43,6 +61,8 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55686
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/55747
 #EXTINF:-1 tvg-id="" tvg-name="Litus TV" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png" group-title="Cable",Litus TV
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/chunklist_w980205208_b1531904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Canal 26
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" group-title="Cable",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="Cable",Telesur
@@ -53,22 +73,10 @@ https://rt-esp.secure.footprint.net/1102.m3u8
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="Cable",DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Canal 26
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101669
 #EXTINF:-1 tvg-id="" tvg-name="Hispan TV" tvg-logo="https://cable10.com/imagenes/programacion/canales_0002s_0001_Layer%20116.jpg" group-title="Cable",Hispan TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1820234404_b644100_slen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital" tvg-logo="https://lh3.googleusercontent.com/-J9YzUdbdH_A/XjtFGLCyIGI/AAAAAAAAvpg/KQIBzXLKRgADtpsPuf83H43jYfFeMNT4gCK8BGAsYHg/s0/2020-02-05.png" group-title="Cable",Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1502141439_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEN TV" tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" group-title="Cable",GEN TV
-https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="https://cable10.com/imagenes/programacion/canales_0012s_0004_Layer%2053.jpg" group-title="Cable",Canal CNN Chile
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41260
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="Cable",Canal 22
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist_w1854372037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIFE" tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNIFE.png" group-title="Cable",UNIFE
-https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5zPGmbFO-kT7FI2DTPXqqt6YxI_itpI-_Ie8LvgYPkHRF1YF&s" group-title="Cable",Telemundo
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/41338
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204261
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" group-title="Cable",Space
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/56497
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg" group-title="Cable",DEPORTV
@@ -92,9 +100,9 @@ http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66702
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Cable",FOX Sports 3
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66704
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Cable",DIRECTV SPORTS
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204384
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204265
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Cable",DIRECTV SPORTS 2
-http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/101709
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204266
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Cable",DIRECTV SPORTS Plus
 http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/204422
 #EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM" tvg-logo="http://51.222.105.31:8080/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="Cable",CDO PREMIUM
